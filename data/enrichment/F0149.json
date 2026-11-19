@@ -1,0 +1,59 @@
+{
+  "firm_id": "F0149",
+  "firm": "CEAS Investments",
+  "category": "family_office",
+  "enriched_on": "2026-11-19",
+  "recent_cutoff": "2025-05-19",
+  "pages_read": [
+    "https://www.ceasinvestments.com/",
+    "https://www.ceasinvestments.com/portfolio",
+    "https://www.ceasinvestments.com/team",
+    "https://www.ceasinvestments.com/press"
+  ],
+  "stated_thesis": {
+    "text": "Investment vehicle within a single family office; primary focus is enterprise software (B2B SaaS, data infrastructure, cloud, AI, logistics, defense, supply chain, robotics); writes first checks into early-stage companies with follow-on capacity; invests in the US and Canada.",
+    "source_url": "https://www.ceasinvestments.com/"
+  },
+  "deals": [
+    {
+      "company": "Fivetran",
+      "year": null,
+      "source_url": "https://www.ceasinvestments.com/team",
+      "note": "Team page lists a board-observer seat; investment year not stated"
+    },
+    {
+      "company": "FourKites",
+      "year": null,
+      "source_url": "https://www.ceasinvestments.com/team",
+      "note": "Board-observer seat listed; year not stated"
+    },
+    {
+      "company": "SqlDBM",
+      "year": null,
+      "source_url": "https://www.ceasinvestments.com/team",
+      "note": "Board seat listed; year not stated"
+    },
+    {
+      "company": "One Model",
+      "year": null,
+      "source_url": "https://www.ceasinvestments.com/team",
+      "note": "Board observer seat listed; year not stated"
+    }
+  ],
+  "most_recent_deal": null,
+  "team_size_visible": {
+    "count": 3,
+    "basis": "3 people profiled on the team page",
+    "source_url": "https://www.ceasinvestments.com/team"
+  },
+  "has_operating_partner": null,
+  "focus_west_or_california": null,
+  "direct_investing_evidence": {
+    "statement": "\"We write first checks into early stage companies and have unlimited follow-on potential.\"",
+    "source_url": "https://www.ceasinvestments.com/"
+  },
+  "gaps": [
+    "Press page lists 2026 headlines about portfolio companies (e.g. Thunder Compute, GetWhys), but they do not show CEAS's investment date, so no recent deal is recorded",
+    "Geography: Delray Beach, FL based; US and Canada, no West focus stated"
+  ]
+}

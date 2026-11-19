@@ -1,0 +1,57 @@
+{
+  "firm_id": "F0146",
+  "firm": "Castleford Capital",
+  "category": "independent_sponsor",
+  "enriched_on": "2026-11-19",
+  "recent_cutoff": "2025-05-19",
+  "pages_read": [
+    "https://castlefordcapital.com/",
+    "https://castlefordcapital.com/about/",
+    "https://castlefordcapital.com/portfolio/",
+    "https://castlefordcapital.com/news/"
+  ],
+  "stated_thesis": {
+    "text": "Private equity firm investing in middle market healthcare services and pharmaceutical services companies; typical investment $10-$75 million; uses the independent sponsor model, with investors co-investing deal by deal.",
+    "source_url": "https://castlefordcapital.com/about/"
+  },
+  "deals": [
+    {
+      "company": "Rebound Medical Systems Corp.",
+      "year": 2024,
+      "source_url": "https://castlefordcapital.com/news/",
+      "note": "Growth investment announced April 8, 2024"
+    },
+    {
+      "company": "Allegiance BioScience",
+      "year": null,
+      "source_url": "https://castlefordcapital.com/news/",
+      "note": "Formed by Castleford; date not shown in the news excerpt"
+    },
+    {
+      "company": "US Orthopedic Alliance",
+      "year": null,
+      "source_url": "https://castlefordcapital.com/news/",
+      "note": "Listed as a Castleford portfolio company; date not shown"
+    }
+  ],
+  "most_recent_deal": {
+    "company": "Rebound Medical Systems Corp.",
+    "date": "2024-04-08",
+    "source_url": "https://castlefordcapital.com/news/",
+    "is_recent": false
+  },
+  "team_size_visible": null,
+  "has_operating_partner": {
+    "value": true,
+    "evidence": "\"Our team, which includes operating partners and advisors, adds value to our investments beyond capital.\"",
+    "source_url": "https://castlefordcapital.com/about/"
+  },
+  "focus_west_or_california": null,
+  "direct_investing_evidence": null,
+  "gaps": [
+    "Newest dated item on the firm's news page is April 2024; a web search found no 2025-2026 Castleford deal",
+    "No team page; team size not visible",
+    "Geography not stated (New York office)"
+  ],
+  "direct_investing_evidence_note": "Not applicable: not typed as a family office"
+}

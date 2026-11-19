@@ -1,0 +1,28 @@
+{
+  "firm_id": "F0122",
+  "firm": "Brener International Group",
+  "category": "family_office",
+  "enriched_on": "2026-11-19",
+  "recent_cutoff": "2025-05-19",
+  "pages_read": [
+    "https://www.brenergroup.com/"
+  ],
+  "stated_thesis": {
+    "text": "Private investment firm focused on small and middle market companies, particularly those leveraging the rising spending power of the U.S. Hispanic population; sectors include media, sports, transportation, food and beverage, technology, financial and consumer.",
+    "source_url": "https://www.brenergroup.com/"
+  },
+  "deals": [],
+  "most_recent_deal": null,
+  "team_size_visible": null,
+  "has_operating_partner": null,
+  "focus_west_or_california": null,
+  "direct_investing_evidence": {
+    "statement": "Describes \"prior investments in high profile companies related to the U.S Hispanic demographic\" and being \"on the shortlist of parties contacted prior to broad auctions\".",
+    "source_url": "https://www.brenergroup.com/"
+  },
+  "gaps": [
+    "Investments page not found as readable text; no named deals",
+    "Site footer shows 2018",
+    "Team and geographic focus not stated"
+  ]
+}

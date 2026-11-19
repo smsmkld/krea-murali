@@ -1,0 +1,24 @@
+{
+  "firm_id": "F0186",
+  "firm": "Copper Beech Capital",
+  "category": "family_office",
+  "enriched_on": "2026-11-19",
+  "recent_cutoff": "2025-05-19",
+  "pages_read": [
+    "https://www.cbcap.com/"
+  ],
+  "stated_thesis": {
+    "text": "Dallas-based single family office that selectively invests in real estate, private equity, and private debt alongside best-in-class partners.",
+    "source_url": "https://www.cbcap.com/"
+  },
+  "deals": [],
+  "most_recent_deal": null,
+  "team_size_visible": null,
+  "has_operating_partner": null,
+  "focus_west_or_california": null,
+  "direct_investing_evidence": null,
+  "gaps": [
+    "One-paragraph site; no deals, team or news",
+    "No statement of direct investing (invests \"alongside best-in-class partners\")"
+  ]
+}

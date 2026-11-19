@@ -1,0 +1,34 @@
+{
+  "firm_id": "F0145",
+  "firm": "Casimir Holdings",
+  "category": "family_office",
+  "enriched_on": "2026-11-19",
+  "recent_cutoff": "2025-05-19",
+  "pages_read": [
+    "https://casimirholdings.com/",
+    "https://casimirholdings.com/about",
+    "https://casimirholdings.com/team",
+    "https://casimirholdings.com/approach"
+  ],
+  "stated_thesis": {
+    "text": "Privately held investment partnership investing across industries, asset classes and geographies; public equity, direct private investments across a company's lifecycle, real estate and limited partnership fund investments.",
+    "source_url": "https://casimirholdings.com/approach"
+  },
+  "deals": [],
+  "most_recent_deal": null,
+  "team_size_visible": {
+    "count": 6,
+    "basis": "6 bios on the team page",
+    "source_url": "https://casimirholdings.com/team"
+  },
+  "has_operating_partner": null,
+  "focus_west_or_california": null,
+  "direct_investing_evidence": {
+    "statement": "\"Casimir makes direct private investments across a company's lifecycle.\"",
+    "source_url": "https://casimirholdings.com/approach"
+  },
+  "gaps": [
+    "No portfolio or deals page; no dated news",
+    "Geographic focus not stated (invests \"across all industries and geographies\")"
+  ]
+}

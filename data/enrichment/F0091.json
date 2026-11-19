@@ -1,0 +1,40 @@
+{
+  "firm_id": "F0091",
+  "firm": "Beamonte Investments",
+  "category": "family_office",
+  "enriched_on": "2026-11-19",
+  "recent_cutoff": "2025-05-19",
+  "pages_read": [
+    "https://www.beamonte.com/"
+  ],
+  "stated_thesis": {
+    "text": "Invests in private growth companies, with a particular focus on predictable, recurring revenue, capital efficiency, and strong competitive positions; focus industries media, pharma, creative economy.",
+    "source_url": "https://www.beamonte.com/"
+  },
+  "deals": [
+    {
+      "company": "Venture Academy",
+      "year": 2015,
+      "source_url": "https://www.globenewswire.com/de/news-release/2015/01/28/700585/34342/en/Beamonte-Investments-to-Acquire-Venture-Academy.html",
+      "note": "Press release dated 2015-01-28 per URL"
+    }
+  ],
+  "most_recent_deal": {
+    "company": "Venture Academy",
+    "date": "2015-01-28",
+    "source_url": "https://www.globenewswire.com/de/news-release/2015/01/28/700585/34342/en/Beamonte-Investments-to-Acquire-Venture-Academy.html",
+    "is_recent": false
+  },
+  "team_size_visible": null,
+  "has_operating_partner": null,
+  "focus_west_or_california": null,
+  "direct_investing_evidence": {
+    "statement": "Under Private Credit: \"We invest directly through our subsidiaries and affiliates, as well as through specialist credit funds\". Also states \"No outside limited partners\".",
+    "source_url": "https://www.beamonte.com/"
+  },
+  "gaps": [
+    "Most recent deal found is from 2015, so no recent deal is shown",
+    "Site homepage names no portfolio companies",
+    "Team page not read"
+  ]
+}

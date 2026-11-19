@@ -1,0 +1,25 @@
+{
+  "firm_id": "F0185",
+  "firm": "Copford Capital Management",
+  "category": "family_office",
+  "enriched_on": "2026-11-19",
+  "recent_cutoff": "2025-05-19",
+  "pages_read": [
+    "https://copfordcm.com/",
+    "https://copfordcm.com/about-copford/"
+  ],
+  "stated_thesis": {
+    "text": "Single-family office supporting the personal, philanthropic and investment activity of its principals, with interests across real estate, private equity, private credit and venture capital.",
+    "source_url": "https://copfordcm.com/about-copford/"
+  },
+  "deals": [],
+  "most_recent_deal": null,
+  "team_size_visible": null,
+  "has_operating_partner": null,
+  "focus_west_or_california": null,
+  "direct_investing_evidence": null,
+  "gaps": [
+    "No deals, team or dated news on site (footer 2023)",
+    "No statement of direct investing"
+  ]
+}

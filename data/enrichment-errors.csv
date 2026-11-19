@@ -1,0 +1,10 @@
+firm_id,firm,url,reason
+F0144,Cascata Capital,https://www.axial.net/forum/case-study-stump-and-co-advises-ladco/,blocked by Cloudflare challenge; not read (deal date taken from PrivSource instead)
+F0059,Ariet Capital,https://www.arietcapital.com/,page loaded but has almost no readable content (1 sentence)
+F0063,Ash Crest,https://www.ashcrest.com/,page loaded but has no readable content
+F0082,Ayon Capital,https://www.ayon.com/,page loaded but has no readable content beyond a tagline and form
+F0147,Cayre Family Office,https://ceqy.com/,page is a real-estate company site with no family-office or thesis content
+F0122,Brener International Group,https://www.brenergroup.com/,Investments and Our Philosophy tabs not exposed as readable text; no links crawled
+F0026,Agonic Partners,(web search),no announcements found; results were for similarly named firms and were not used
+F0207,Dark Alpha Capital,(web search),no announcements found; results were for unrelated firms and were not used
+F0111,Bondwell Capital,(web search),no announcements found; only an Axial profile with no named deals

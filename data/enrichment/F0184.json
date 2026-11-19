@@ -1,0 +1,30 @@
+{
+  "firm_id": "F0184",
+  "firm": "Cooper Family Office",
+  "category": "family_office",
+  "enriched_on": "2026-11-19",
+  "recent_cutoff": "2025-05-19",
+  "pages_read": [
+    "https://www.cooperfamilyoffice.com/",
+    "https://www.cooperfamilyoffice.com/about-us",
+    "https://www.cooperfamilyoffice.com/investment-teams"
+  ],
+  "stated_thesis": {
+    "text": "Single family office that invests globally in hedge funds, private equity and venture funds, plus direct investments in operating companies and other private opportunities including real estate; prefers partnering with proven managers; co-invests extensively.",
+    "source_url": "https://www.cooperfamilyoffice.com/about-us"
+  },
+  "deals": [],
+  "most_recent_deal": null,
+  "team_size_visible": null,
+  "has_operating_partner": null,
+  "focus_west_or_california": null,
+  "direct_investing_evidence": {
+    "statement": "\"direct investments in operating companies and other private opportunities, including real estate\"; \"We are pleased to co-invest extensively.\"",
+    "source_url": "https://www.cooperfamilyoffice.com/about-us"
+  },
+  "gaps": [
+    "No named deals or dated news on site",
+    "Team spread across 12+ sector tabs; size not counted",
+    "Geography stated as global; no West focus"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "firm_id": "F0082",
+  "firm": "Ayon Capital",
+  "category": "family_office",
+  "enriched_on": "2026-11-19",
+  "recent_cutoff": "2025-05-19",
+  "pages_read": [
+    "https://www.ayon.com/"
+  ],
+  "stated_thesis": null,
+  "deals": [],
+  "most_recent_deal": null,
+  "team_size_visible": null,
+  "has_operating_partner": null,
+  "focus_west_or_california": null,
+  "direct_investing_evidence": null,
+  "gaps": [
+    "Site shows only the tagline \"Purpose-driven family office. A better way of investing\" and a contact form; no thesis, deals or team"
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "firm_id": "F0114",
+  "firm": "Borgman Capital",
+  "category": "independent_sponsor",
+  "enriched_on": "2026-11-19",
+  "recent_cutoff": "2025-05-19",
+  "pages_read": [
+    "https://www.borgmancapital.com/",
+    "https://www.borgmancapital.com/team",
+    "https://www.borgmancapital.com/companies-criteria",
+    "https://www.borgmancapital.com/our-companies-current",
+    "https://www.borgmancapital.com/news"
+  ],
+  "stated_thesis": {
+    "text": "Private equity firm that invests in and helps grow established lower middle market businesses across the United States, with a focus on the Midwest; also invests in commercial real estate.",
+    "source_url": "https://www.borgmancapital.com/"
+  },
+  "deals": [
+    {
+      "company": "Professional Concrete Cutting & Drilling",
+      "year": 2026,
+      "source_url": "https://www.borgmancapital.com/news/professional-concrete-cutting-drilling-partners-with-borgman-capital",
+      "note": "Press release dated 8/25/26"
+    },
+    {
+      "company": "Gilman Cheese Corporation (add-on: Dairyfood USA)",
+      "year": null,
+      "source_url": "https://www.borgmancapital.com/our-companies-current",
+      "note": "Listed as current portfolio; year not stated"
+    },
+    {
+      "company": "K.G. Stevens (add-on: Minnesota Tile and Stone)",
+      "year": null,
+      "source_url": "https://www.borgmancapital.com/our-companies-current",
+      "note": "Listed as current portfolio; year not stated"
+    },
+    {
+      "company": "Technical Products, Inc. (TPI)",
+      "year": null,
+      "source_url": "https://www.borgmancapital.com/our-companies-current",
+      "note": "Year not stated"
+    },
+    {
+      "company": "Southeastern Meats",
+      "year": null,
+      "source_url": "https://www.borgmancapital.com/our-companies-current",
+      "note": "Year not stated"
+    },
+    {
+      "company": "Buck Bone Organics",
+      "year": null,
+      "source_url": "https://www.borgmancapital.com/our-companies-current",
+      "note": "Year not stated"
+    }
+  ],
+  "most_recent_deal": {
+    "company": "Professional Concrete Cutting & Drilling",
+    "date": "2026-08-25",
+    "source_url": "https://www.borgmancapital.com/news/professional-concrete-cutting-drilling-partners-with-borgman-capital",
+    "is_recent": true
+  },
+  "team_size_visible": {
+    "count": 13,
+    "basis": "13 people profiled on the team page",
+    "source_url": "https://www.borgmancapital.com/team"
+  },
+  "has_operating_partner": null,
+  "focus_west_or_california": {
+    "value": false,
+    "evidence": "Stated focus is \"the Midwest\"; also \"open to opportunities across the U.S.\" A Portland, OR office is listed on the contact page but is not described as a focus.",
+    "source_url": "https://www.borgmancapital.com/companies-criteria"
+  },
+  "direct_investing_evidence": null,
+  "gaps": [
+    "Site lists more portfolio companies than shown here (8 platform companies, 22 acquisitions per homepage); only some read",
+    "No \"operating partner\" title found on the team page"
+  ],
+  "direct_investing_evidence_note": "Not applicable: not typed as a family office"
+}

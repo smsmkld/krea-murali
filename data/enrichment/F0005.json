@@ -1,0 +1,31 @@
+{
+  "firm_id": "F0005",
+  "firm": "42 North Partners",
+  "category": "family_office",
+  "enriched_on": "2026-11-19",
+  "recent_cutoff": "2025-05-19",
+  "pages_read": [
+    "https://www.42np.com/"
+  ],
+  "stated_thesis": {
+    "text": "Focused on middle- and lower-middle-market private equity fund investing and co-investing primarily in North America.",
+    "source_url": "https://www.42np.com/"
+  },
+  "deals": [],
+  "most_recent_deal": null,
+  "team_size_visible": {
+    "count": 16,
+    "basis": "16 people listed on the team section, including 2 board members/family advisors and administrative staff",
+    "source_url": "https://www.42np.com/"
+  },
+  "has_operating_partner": null,
+  "focus_west_or_california": null,
+  "direct_investing_evidence": {
+    "statement": "\"private equity fund investing and co-investing\"; a team member is described as managing \"42 North Partners' co-investment program\". The site does not use the word \"direct\".",
+    "source_url": "https://www.42np.com/"
+  },
+  "gaps": [
+    "No portfolio or deals page found; no dated news on site",
+    "Operating partner and geographic focus not stated"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "firm_id": "F0111",
+  "firm": "Bondwell Capital",
+  "category": "independent_sponsor",
+  "enriched_on": "2026-11-19",
+  "recent_cutoff": "2025-05-19",
+  "pages_read": [
+    "https://www.bondwellcapital.com/"
+  ],
+  "stated_thesis": {
+    "text": "Operator-led independent sponsor partnering with founder-led healthcare services businesses; focus areas include occupational health, pediatric therapy and behavioral health, primary care, IDD services, mobile diagnostics.",
+    "source_url": "https://www.bondwellcapital.com/"
+  },
+  "deals": [],
+  "most_recent_deal": null,
+  "team_size_visible": {
+    "count": 1,
+    "basis": "One person profiled (Founder and Managing Partner)",
+    "source_url": "https://www.bondwellcapital.com/"
+  },
+  "has_operating_partner": null,
+  "focus_west_or_california": null,
+  "direct_investing_evidence": null,
+  "gaps": [
+    "No deals listed on site; web search found no announcements",
+    "Geography stated only as \"United States\""
+  ],
+  "direct_investing_evidence_note": "Not applicable: not typed as a family office"
+}

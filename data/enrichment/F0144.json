@@ -1,0 +1,57 @@
+{
+  "firm_id": "F0144",
+  "firm": "Cascata Capital",
+  "category": "independent_sponsor",
+  "enriched_on": "2026-11-19",
+  "recent_cutoff": "2025-05-19",
+  "pages_read": [
+    "https://www.cascatacapital.com/",
+    "https://www.cascatacapital.com/about",
+    "https://www.cascatacapital.com/investment-criteria",
+    "https://www.cascatacapital.com/portfolio"
+  ],
+  "stated_thesis": {
+    "text": "Alternative investment firm focused on private equity platform investments: acquires controlling interests in entrepreneur-founded and family or management-owned companies in commercial and residential services, consumer services, environmental services, and utility and infrastructure services.",
+    "source_url": "https://www.cascatacapital.com/investment-criteria"
+  },
+  "deals": [
+    {
+      "company": "Ladco, Inc. (Ladco Design Center, Houston)",
+      "year": 2025,
+      "source_url": "https://www.privsource.com/acquisitions/deal/wySG7E",
+      "note": "PrivSource item dated July 2, 2025: Cascata Capital acquired Ladco"
+    },
+    {
+      "company": "GridHawk",
+      "year": null,
+      "source_url": "https://www.cascatacapital.com/portfolio",
+      "note": "Listed as existing platform; year not stated"
+    },
+    {
+      "company": "DominionX",
+      "year": null,
+      "source_url": "https://www.cascatacapital.com/portfolio",
+      "note": "Listed as existing platform; year not stated"
+    }
+  ],
+  "most_recent_deal": {
+    "company": "Ladco, Inc. (Ladco Design Center)",
+    "date": "2025-07-02",
+    "source_url": "https://www.privsource.com/acquisitions/deal/wySG7E",
+    "is_recent": true
+  },
+  "team_size_visible": null,
+  "has_operating_partner": {
+    "value": true,
+    "evidence": "\"Principals and operating partners with over 50 years of combined financial and investment experience.\"",
+    "source_url": "https://www.cascatacapital.com/about"
+  },
+  "focus_west_or_california": null,
+  "direct_investing_evidence": null,
+  "gaps": [
+    "No team page; team size not visible",
+    "Geography not stated as a focus (platforms in TX, TN, 25+ states)",
+    "Ladco date comes from a third-party deal database, not the firm site"
+  ],
+  "direct_investing_evidence_note": "Not applicable: not typed as a family office"
+}

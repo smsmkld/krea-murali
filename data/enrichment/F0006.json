@@ -1,0 +1,49 @@
+{
+  "firm_id": "F0006",
+  "firm": "4S Bay Partners",
+  "category": "family_office",
+  "enriched_on": "2026-11-19",
+  "recent_cutoff": "2025-05-19",
+  "pages_read": [
+    "https://www.4sbay.com/",
+    "https://www.4sbay.com/about",
+    "https://www.4sbay.com/investments",
+    "https://www.4sbay.com/news"
+  ],
+  "stated_thesis": {
+    "text": "Invests across multiple asset classes in enterprises and projects that provide compelling mission and financial returns, with an impact-investing framework.",
+    "source_url": "https://www.4sbay.com/investments"
+  },
+  "deals": [
+    {
+      "company": "Stocker Street Creative (multi-use film campus, Baldwin Hills, CA; completion listed as 2027)",
+      "year": null,
+      "source_url": "https://www.4sbay.com/",
+      "note": "Year of acquisition not stated on site"
+    },
+    {
+      "company": "Northwest Philadelphia properties (purchaser per La Salle University)",
+      "year": 2024,
+      "source_url": "https://www.4sbay.com/news",
+      "note": "Dated Aug 15, 2024 in the cited La Salle University article"
+    }
+  ],
+  "most_recent_deal": {
+    "company": "Northwest Philadelphia properties (real estate purchase)",
+    "date": "2024-08-15",
+    "source_url": "https://www.4sbay.com/news",
+    "is_recent": false
+  },
+  "team_size_visible": null,
+  "has_operating_partner": null,
+  "focus_west_or_california": null,
+  "direct_investing_evidence": {
+    "statement": "\"We invest in both public and private sectors... through both direct investments and fund managers\"; lists \"Direct PE or VC Investments\".",
+    "source_url": "https://www.4sbay.com/investments"
+  },
+  "gaps": [
+    "Team size not counted (leadership page not read in full)",
+    "Operating partner not stated",
+    "Geographic focus not stated (projects named in CA, IL, PA)"
+  ]
+}
