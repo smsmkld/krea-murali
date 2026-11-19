@@ -1,0 +1,6 @@
+email,first_name,last_name,firm,firm_id,suppressed_as,matched_on,reason
+eli@amca.co,Eli,Giovanetti,amca.co,F0048,AMCA,email domain,"Client instruction: ""Dont contact AMCA"" (onboarding form + CLIENT.md)"
+jai@amca.co,Jai,Malik,amca.co,F0048,AMCA,email domain,"Client instruction: ""Dont contact AMCA"" (onboarding form + CLIENT.md)"
+bmichel@harbourgroup.com,Bethany,Michel,harbourgroup.com,F0345,Harbour Group,email domain,Named client/buyer in onboarding form; CLIENT.md: never name; past client = personal note only
+dpettinga@krabraham.com,Dean,Pettinga,krabraham.com,F0445,K.R. Abraham & Co.,email domain,Named client/buyer in onboarding form; CLIENT.md: never name; past client = personal note only
+rabraham@krabraham.com,Robin,Abraham,krabraham.com,F0445,K.R. Abraham & Co.,email domain,Named client/buyer in onboarding form; CLIENT.md: never name; past client = personal note only
