@@ -1,0 +1,115 @@
+{
+  "firm_id": "F0478",
+  "firm": "LV2 Equity Partners",
+  "category": "independent_sponsor",
+  "source_sheet": "leads-classified",
+  "enriched_on": "2026-11-19",
+  "recent_cutoff": "2025-05-19",
+  "site_status": "ok",
+  "pages_read": [
+    "https://lv2partners.com/",
+    "https://lv2partners.com/management-team.htm",
+    "https://lv2partners.com/portfolio-companies.htm",
+    "https://lv2partners.com/press-releases.htm",
+    "https://lv2partners.com/investment-strategy.htm"
+  ],
+  "stated_thesis": null,
+  "dated_facts": [
+    {
+      "headline": "– John Pollock presents to the Exit Planning Institute",
+      "date": "2021-03-29",
+      "source_url": "https://lv2partners.com/press-releases.htm",
+      "page_kind": "firm_news",
+      "is_recent": false,
+      "counts_as_firm_deal": false
+    },
+    {
+      "headline": "MARTIN YALE INDUSTRIES, a portfolio company of LV2 EQUITY PARTNERS, announces acquisition OF DRY-LAM.",
+      "date": "2017-11-06",
+      "source_url": "https://lv2partners.com/press-releases.htm",
+      "page_kind": "firm_news",
+      "is_recent": false,
+      "counts_as_firm_deal": true
+    },
+    {
+      "headline": "MARTIN YALE INDUSTRIES, a portfolio company of LV2 EQUITY PARTNERS, announces the acquisition of COUNT MACHINERY COMPANY",
+      "date": "2016-05-04",
+      "source_url": "https://lv2partners.com/press-releases.htm",
+      "page_kind": "firm_news",
+      "is_recent": false,
+      "counts_as_firm_deal": true
+    },
+    {
+      "headline": "LV2 Equity Partners Acquires Martin Yale Industries, LLC",
+      "date": "2014-06-30",
+      "source_url": "https://lv2partners.com/press-releases.htm",
+      "page_kind": "firm_news",
+      "is_recent": false,
+      "counts_as_firm_deal": true
+    },
+    {
+      "headline": "LV2 Equity Partners, LLC completes its third investment",
+      "date": "2010-11-01",
+      "source_url": "https://lv2partners.com/press-releases.htm",
+      "page_kind": "firm_news",
+      "is_recent": false,
+      "counts_as_firm_deal": true
+    }
+  ],
+  "most_recent_dated_fact": {
+    "headline": "– John Pollock presents to the Exit Planning Institute",
+    "date": "2021-03-29",
+    "source_url": "https://lv2partners.com/press-releases.htm",
+    "page_kind": "firm_news",
+    "is_recent": false,
+    "counts_as_firm_deal": false
+  },
+  "stated_size_criteria": [
+    {
+      "kind": "revenue",
+      "lo_m": 3.0,
+      "hi_m": 30.0,
+      "sentence": "LV2 Equity Partners is a private equity group focused on investing in small to lower middle market companies ($3–30 million in sales). LV2’s strategy is to partner with solid management teams in niche manufacturing segments that possess strong prospects for growth. LV2 provides capital, operational and financial expertise, and strategic vision to support and complement the management teams within its family of portfolio companies. Please visit our website at",
+      "source_url": "https://lv2partners.com/press-releases.htm"
+    },
+    {
+      "kind": "revenue",
+      "lo_m": 10.0,
+      "hi_m": 50.0,
+      "sentence": "Stand-alone companies typically have revenues between $10 million and $50 million.",
+      "source_url": "https://lv2partners.com/investment-strategy.htm"
+    }
+  ],
+  "team_size_visible": {
+    "count": 3,
+    "basis": "3 people with titles found on https://lv2partners.com/management-team.htm",
+    "source_url": "https://lv2partners.com/management-team.htm",
+    "flags": [],
+    "titles_seen": [
+      "Investors",
+      "MANAGING DIRECTOR",
+      "SENIOR MANAGING DIRECTOR"
+    ]
+  },
+  "has_operating_partner": {
+    "value": true,
+    "evidence": "Operating Partners are the future of private equity in their role of delivering investment performance through top and bottom line improvement.",
+    "source_url": "https://lv2partners.com/press-releases.htm"
+  },
+  "focus_west_or_california": {
+    "value": false,
+    "evidence": "United States with a preference toward the Midwest.",
+    "source_url": "https://lv2partners.com/investment-strategy.htm"
+  },
+  "direct_investing_evidence": null,
+  "sector_statement": {
+    "statement": "LV2 Equity Partners, LLC | A private investment firm whose objective is to acquire a controlling interest in niche manufacturers, value-added distributors and specialty service companies.",
+    "source_url": "https://lv2partners.com/"
+  },
+  "decision_maker": null,
+  "contacts_in_our_list_at_firm": 2,
+  "gaps": [
+    "No thesis sentence found on pages read",
+    "No decision-maker with a matching title found on the site"
+  ]
+}

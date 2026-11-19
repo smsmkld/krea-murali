@@ -1,0 +1,75 @@
+{
+  "firm_id": "F0493",
+  "firm": "Marion Park",
+  "category": "independent_sponsor",
+  "source_sheet": "leads-classified",
+  "enriched_on": "2026-11-19",
+  "recent_cutoff": "2025-05-19",
+  "site_status": "ok",
+  "pages_read": [
+    "https://www.marionparkllc.com/",
+    "https://www.marionparkllc.com/team",
+    "https://www.marionparkllc.com/investment-criteria"
+  ],
+  "stated_thesis": null,
+  "dated_facts": [],
+  "most_recent_dated_fact": null,
+  "stated_size_criteria": [
+    {
+      "kind": "ebitda",
+      "lo_m": 1.0,
+      "hi_m": 5.0,
+      "sentence": "Marion Park is a Chicago-based private investment firm that acquires management, family or founder-owned business services companies generating $1 to $5 million of EBITDA. We have nearly twenty years of experience investing alongside strong management teams in high-quality service companies looking to accelerate growth. We understand what it takes to invest in, partner with, and grow service companies whose people are its core asset.",
+      "source_url": "https://www.marionparkllc.com/"
+    },
+    {
+      "kind": "ebitda",
+      "lo_m": 1.0,
+      "hi_m": 5.0,
+      "sentence": "$1 — $5 million EBITDA",
+      "source_url": "https://www.marionparkllc.com/"
+    },
+    {
+      "kind": "ebitda",
+      "lo_m": 1.0,
+      "hi_m": 5.0,
+      "sentence": "Marion Park invests in lower middle market business services companies. The firm targets management, family or founder-owned US-based businesses generating $1 to $5 million of EBITDA .",
+      "source_url": "https://www.marionparkllc.com/investment-criteria"
+    },
+    {
+      "kind": "ebitda",
+      "lo_m": 1.0,
+      "hi_m": 5.0,
+      "sentence": "$1 — $5 million EBITDA",
+      "source_url": "https://www.marionparkllc.com/investment-criteria"
+    }
+  ],
+  "team_size_visible": {
+    "count": 1,
+    "basis": "1 people with titles found on https://www.marionparkllc.com/team",
+    "source_url": "https://www.marionparkllc.com/team",
+    "flags": [],
+    "titles_seen": [
+      "Founder and Managing Principal"
+    ]
+  },
+  "has_operating_partner": null,
+  "focus_west_or_california": null,
+  "direct_investing_evidence": null,
+  "sector_statement": {
+    "statement": "Business services (Facility, commercial, engineering and construction, environmental and waste, human resource, industrial, utility and telecom, and professional and consulting services)",
+    "source_url": "https://www.marionparkllc.com/"
+  },
+  "decision_maker": {
+    "name": "Andrew Gustafson",
+    "title": "Founder and Managing Principal",
+    "source_url": "https://www.marionparkllc.com/team",
+    "selection_rule": "managing partner",
+    "in_contact_list": true,
+    "email": "andrew@marionparkllc.com"
+  },
+  "contacts_in_our_list_at_firm": 1,
+  "gaps": [
+    "No thesis sentence found on pages read"
+  ]
+}

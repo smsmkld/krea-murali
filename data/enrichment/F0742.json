@@ -1,0 +1,79 @@
+{
+  "firm_id": "F0742",
+  "firm": "Stenger Family Office",
+  "category": "family_office",
+  "source_sheet": "leads-classified",
+  "enriched_on": "2026-11-19",
+  "recent_cutoff": "2025-05-19",
+  "site_status": "ok",
+  "pages_read": [
+    "https://www.stengerfamilyoffice.com/",
+    "https://www.stengerfamilyoffice.com/team",
+    "https://www.stengerfamilyoffice.com/fortune-500-companies",
+    "https://www.stengerfamilyoffice.com/insights",
+    "https://www.stengerfamilyoffice.com/nick-stenger-weekly-insights",
+    "https://www.stengerfamilyoffice.com/team",
+    "https://www.stengerfamilyoffice.com/family-office",
+    "https://www.stengerfamilyoffice.com/taxpreparation",
+    "https://www.stengerfamilyoffice.com/wealth-management",
+    "https://www.stengerfamilyoffice.com/investment-management"
+  ],
+  "stated_thesis": null,
+  "dated_facts": [
+    {
+      "headline": "The S&P 500 Index closes over 7,000 for the first time in history",
+      "date": "2026-04-19",
+      "source_url": "https://www.stengerfamilyoffice.com/insights",
+      "page_kind": "firm_news",
+      "is_recent": true,
+      "counts_as_firm_deal": false
+    }
+  ],
+  "most_recent_dated_fact": {
+    "headline": "The S&P 500 Index closes over 7,000 for the first time in history",
+    "date": "2026-04-19",
+    "source_url": "https://www.stengerfamilyoffice.com/insights",
+    "page_kind": "firm_news",
+    "is_recent": true,
+    "counts_as_firm_deal": false
+  },
+  "stated_size_criteria": [],
+  "team_size_visible": {
+    "count": 18,
+    "basis": "18 people with titles found on https://www.stengerfamilyoffice.com/team",
+    "source_url": "https://www.stengerfamilyoffice.com/team",
+    "flags": [
+      "associates_or_analysts",
+      "10_plus_people"
+    ],
+    "titles_seen": [
+      "Associate",
+      "Chief Compliance Officer",
+      "Chief Executive Officer",
+      "Chief Financial Officer",
+      "Corporate Finance Associate",
+      "Director, Business Operations",
+      "Director, Client Operations",
+      "Director, Field Management",
+      "Operations Associate",
+      "Senior Tax Associate",
+      "Senior Vice President",
+      "Senior Wealth Management Associate",
+      "Vice President",
+      "Wealth Management Associate"
+    ]
+  },
+  "has_operating_partner": null,
+  "focus_west_or_california": null,
+  "direct_investing_evidence": {
+    "statement": "offers a unique opportunity to invest directly in the stock market at a reasonable cost.",
+    "source_url": "https://www.stengerfamilyoffice.com/"
+  },
+  "sector_statement": null,
+  "decision_maker": null,
+  "contacts_in_our_list_at_firm": 1,
+  "gaps": [
+    "No thesis sentence found on pages read",
+    "No decision-maker with a matching title found on the site"
+  ]
+}

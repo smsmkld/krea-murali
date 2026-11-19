@@ -1,0 +1,31 @@
+{
+  "firm_id": "F0667",
+  "firm": "River Valley Holdings",
+  "category": "family_office",
+  "source_sheet": "leads-classified",
+  "enriched_on": "2026-11-19",
+  "recent_cutoff": "2025-05-19",
+  "site_status": "ok",
+  "pages_read": [
+    "https://www.rvholdings.com/"
+  ],
+  "stated_thesis": null,
+  "dated_facts": [],
+  "most_recent_dated_fact": null,
+  "stated_size_criteria": [],
+  "team_size_visible": null,
+  "has_operating_partner": null,
+  "focus_west_or_california": null,
+  "direct_investing_evidence": null,
+  "sector_statement": {
+    "statement": "The office has a strong focus in commercial real estate, with direct ownership and management of retail, office and industrial properties across the country.",
+    "source_url": "https://www.rvholdings.com/"
+  },
+  "decision_maker": null,
+  "contacts_in_our_list_at_firm": 2,
+  "gaps": [
+    "No thesis sentence found on pages read",
+    "No team page with names and titles found",
+    "No decision-maker with a matching title found on the site"
+  ]
+}

@@ -53,5 +53,28 @@
     "Geography not stated as a focus (platforms in TX, TN, 25+ states)",
     "Ladco date comes from a third-party deal database, not the firm site"
   ],
-  "direct_investing_evidence_note": "Not applicable: not typed as a family office"
+  "direct_investing_evidence_note": "Not applicable: not typed as a family office",
+  "site_status": "ok",
+  "dated_facts": [],
+  "stated_size_criteria": [
+    {
+      "kind": "ebitda",
+      "lo_m": 1.0,
+      "hi_m": 20.0,
+      "sentence": "EBITDA: $1 – $20 million +",
+      "source_url": "https://www.cascatacapital.com/investment-criteria"
+    },
+    {
+      "kind": "revenue",
+      "lo_m": 5.0,
+      "hi_m": 100.0,
+      "sentence": "Revenue: $5 – $100 million +",
+      "source_url": "https://www.cascatacapital.com/investment-criteria"
+    }
+  ],
+  "sector_statement": null,
+  "decision_maker": null,
+  "contacts_in_our_list_at_firm": 1,
+  "team_flags": [],
+  "team_titles_seen": []
 }

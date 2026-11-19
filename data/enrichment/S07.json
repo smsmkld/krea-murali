@@ -1,0 +1,58 @@
+{
+  "firm_id": "S07",
+  "firm": "Flight Equity",
+  "category": "independent_sponsor",
+  "source_sheet": "IS directory sheet",
+  "enriched_on": "2026-11-19",
+  "recent_cutoff": "2025-05-19",
+  "site_status": "ok",
+  "pages_read": [
+    "https://www.flightequity.com/",
+    "https://www.flightequity.com/team",
+    "https://www.flightequity.com/companies",
+    "https://www.flightequity.com/approach"
+  ],
+  "stated_thesis": null,
+  "dated_facts": [],
+  "most_recent_dated_fact": null,
+  "stated_size_criteria": [],
+  "team_size_visible": {
+    "count": 3,
+    "basis": "3 people with titles found on https://www.flightequity.com/team",
+    "source_url": "https://www.flightequity.com/team",
+    "flags": [
+      "associates_or_analysts"
+    ],
+    "titles_seen": [
+      "Co-Founder and Partner",
+      "MBA Associate"
+    ]
+  },
+  "has_operating_partner": null,
+  "focus_west_or_california": null,
+  "direct_investing_evidence": null,
+  "sector_statement": null,
+  "decision_maker": {
+    "name": "Amit Bedi",
+    "title": "Co-Founder and Partner",
+    "source_url": "https://www.flightequity.com/team",
+    "selection_rule": "founder",
+    "in_contact_list": false,
+    "email": "needs lookup"
+  },
+  "contacts_in_our_list_at_firm": 0,
+  "gaps": [
+    "No thesis sentence found on pages read"
+  ],
+  "directory_listing": {
+    "source_url": "https://flightequity.com/approach",
+    "date_checked": "2026-10-26",
+    "ebitda_min_m": "3",
+    "ebitda_max_m": "10",
+    "revenue_min_m": NaN,
+    "revenue_max_m": NaN,
+    "geography": "U.S., headquartered anywhere",
+    "sectors": "Business services; Distribution & logistics",
+    "self_description": "We raise capital deal by deal from personal capital, family offices and professional investors"
+  }
+}

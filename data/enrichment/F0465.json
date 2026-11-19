@@ -1,0 +1,39 @@
+{
+  "firm_id": "F0465",
+  "firm": "LinePoint Partners & Co.",
+  "category": "family_office",
+  "source_sheet": "leads-classified",
+  "enriched_on": "2026-11-19",
+  "recent_cutoff": "2025-05-19",
+  "site_status": "ok",
+  "pages_read": [
+    "https://www.linepointpartners.com/",
+    "https://www.linepointpartners.com/our-team",
+    "https://www.linepointpartners.com/client-solutions-portfolio",
+    "https://www.linepointpartners.com/news-and-insights"
+  ],
+  "stated_thesis": null,
+  "dated_facts": [],
+  "most_recent_dated_fact": null,
+  "stated_size_criteria": [],
+  "team_size_visible": {
+    "count": 2,
+    "basis": "2 people with titles found on https://www.linepointpartners.com/our-team",
+    "source_url": "https://www.linepointpartners.com/our-team",
+    "flags": [],
+    "titles_seen": [
+      "Chief Financial Officer & Head of Advanced Wealth Planning",
+      "Director of Accounting"
+    ]
+  },
+  "has_operating_partner": null,
+  "focus_west_or_california": null,
+  "direct_investing_evidence": null,
+  "sector_statement": null,
+  "decision_maker": null,
+  "contacts_in_our_list_at_firm": 1,
+  "gaps": [
+    "No thesis sentence found on pages read",
+    "No decision-maker with a matching title found on the site"
+  ]
+}

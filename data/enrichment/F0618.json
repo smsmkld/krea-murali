@@ -1,0 +1,83 @@
+{
+  "firm_id": "F0618",
+  "firm": "Pittco Management",
+  "category": "family_office",
+  "source_sheet": "leads-classified",
+  "enriched_on": "2026-11-19",
+  "recent_cutoff": "2025-05-19",
+  "site_status": "ok",
+  "pages_read": [
+    "https://pittcomanagement.com/",
+    "https://pittcomanagement.com/the-team/",
+    "https://pittcomanagement.com/investments/",
+    "https://pittcomanagement.com/press/",
+    "https://pittcomanagement.com/about/"
+  ],
+  "stated_thesis": null,
+  "dated_facts": [
+    {
+      "headline": "Pittco Management, LLC (\"Pittco\") is pleased to announce its equity investment in Nscale Global Holdings Limited (\"Nscale\") in partnership with Epping Forest Capital GP, LLC.",
+      "date": "2026-06-25",
+      "source_url": "https://pittcomanagement.com/press/",
+      "page_kind": "firm_news",
+      "is_recent": true,
+      "counts_as_firm_deal": true
+    }
+  ],
+  "most_recent_dated_fact": {
+    "headline": "Pittco Management, LLC (\"Pittco\") is pleased to announce its equity investment in Nscale Global Holdings Limited (\"Nscale\") in partnership with Epping Forest Capital GP, LLC.",
+    "date": "2026-06-25",
+    "source_url": "https://pittcomanagement.com/press/",
+    "page_kind": "firm_news",
+    "is_recent": true,
+    "counts_as_firm_deal": true
+  },
+  "stated_size_criteria": [],
+  "team_size_visible": {
+    "count": 17,
+    "basis": "17 people with titles found on https://pittcomanagement.com/the-team/",
+    "source_url": "https://pittcomanagement.com/the-team/",
+    "flags": [
+      "associates_or_analysts",
+      "10_plus_people"
+    ],
+    "titles_seen": [
+      "Accounting Associate",
+      "Accounts Payable/Payroll Manager",
+      "Analyst, Investments",
+      "Associate, Investments",
+      "Chief Accounting Officer",
+      "Chief Technology Officer",
+      "Controller",
+      "Executive Assistant to Barbara and Pitt Hyde",
+      "Executive Assistant to Henry Guy",
+      "Office Manager and Building Coordinator",
+      "Partners, a single-family office with offices in New York, L",
+      "Partnerships of Atlanta and on the Advisory Committee for Yo",
+      "President & Chief Investment Officer",
+      "Principal, Investments"
+    ]
+  },
+  "has_operating_partner": null,
+  "focus_west_or_california": null,
+  "direct_investing_evidence": {
+    "statement": "He also sources, evaluates, and executes direct investments.",
+    "source_url": "https://pittcomanagement.com/the-team/"
+  },
+  "sector_statement": {
+    "statement": "Atoms is an industrial robotics and physical AI company specializing in purpose-built machines and non-humanoid robots for the food, mining, and transportation industries.",
+    "source_url": "https://pittcomanagement.com/investments/"
+  },
+  "decision_maker": {
+    "name": "Henry Guy",
+    "title": "President & Chief Investment Officer",
+    "source_url": "https://pittcomanagement.com/the-team/",
+    "selection_rule": "chief investment officer",
+    "in_contact_list": true,
+    "email": "hguy@pittcomanagement.com"
+  },
+  "contacts_in_our_list_at_firm": 2,
+  "gaps": [
+    "No thesis sentence found on pages read"
+  ]
+}

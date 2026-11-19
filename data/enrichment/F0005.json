@@ -27,5 +27,17 @@
   "gaps": [
     "No portfolio or deals page found; no dated news on site",
     "Operating partner and geographic focus not stated"
+  ],
+  "site_status": "ok",
+  "dated_facts": [],
+  "stated_size_criteria": [],
+  "sector_statement": null,
+  "decision_maker": null,
+  "contacts_in_our_list_at_firm": 1,
+  "team_flags": [],
+  "team_titles_seen": [
+    "Controller Tessa manages the",
+    "Office Manager & Grant Coordinator",
+    "partners for long-term success"
   ]
 }

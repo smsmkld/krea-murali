@@ -1,0 +1,58 @@
+{
+  "firm_id": "F0836",
+  "firm": "Viridian Pacific Capital Partners",
+  "category": "independent_sponsor",
+  "source_sheet": "leads-classified",
+  "enriched_on": "2026-11-19",
+  "recent_cutoff": "2025-05-19",
+  "site_status": "ok",
+  "pages_read": [
+    "https://viridianpacificcapital.com/",
+    "https://viridianpacificcapital.com/strategy",
+    "https://viridianpacificcapital.com/about"
+  ],
+  "stated_thesis": null,
+  "dated_facts": [],
+  "most_recent_dated_fact": null,
+  "stated_size_criteria": [
+    {
+      "kind": "ebitda",
+      "lo_m": 2.0,
+      "hi_m": 10.0,
+      "sentence": "$2M–$10M EBITDA. Profitable. Cash-generating.",
+      "source_url": "https://viridianpacificcapital.com/strategy"
+    }
+  ],
+  "team_size_visible": {
+    "count": 1,
+    "basis": "1 people with titles found on https://viridianpacificcapital.com/about",
+    "source_url": "https://viridianpacificcapital.com/about",
+    "flags": [],
+    "titles_seen": [
+      "Founder"
+    ]
+  },
+  "has_operating_partner": null,
+  "focus_west_or_california": {
+    "value": true,
+    "evidence": "Viridian Pacific acquires family and founder-owned businesses in the lower middle market, primarily in Southern California.",
+    "source_url": "https://viridianpacificcapital.com/about"
+  },
+  "direct_investing_evidence": null,
+  "sector_statement": {
+    "statement": "Serving commercial, industrial, healthcare, and government customers across Southern California.",
+    "source_url": "https://viridianpacificcapital.com/"
+  },
+  "decision_maker": {
+    "name": "Porter Daughtry",
+    "title": "Founder",
+    "source_url": "https://viridianpacificcapital.com/about",
+    "selection_rule": "founder",
+    "in_contact_list": true,
+    "email": "porter@viridianpacificcapital.com"
+  },
+  "contacts_in_our_list_at_firm": 1,
+  "gaps": [
+    "No thesis sentence found on pages read"
+  ]
+}

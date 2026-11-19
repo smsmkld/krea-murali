@@ -1,0 +1,48 @@
+{
+  "firm_id": "F0791",
+  "firm": "Tiempo Capital",
+  "category": "family_office",
+  "source_sheet": "leads-classified",
+  "enriched_on": "2026-11-19",
+  "recent_cutoff": "2025-05-19",
+  "site_status": "ok",
+  "pages_read": [
+    "https://tiempocapital.com/",
+    "https://tiempocapital.com/insights/",
+    "https://tiempocapital.com/about/",
+    "https://tiempocapital.com/investment-management/"
+  ],
+  "stated_thesis": null,
+  "dated_facts": [],
+  "most_recent_dated_fact": null,
+  "stated_size_criteria": [],
+  "team_size_visible": {
+    "count": 2,
+    "basis": "2 people with titles found on https://tiempocapital.com/about/",
+    "source_url": "https://tiempocapital.com/about/",
+    "flags": [],
+    "titles_seen": [
+      "Chief Investment Officer",
+      "Chief Strategy Officer"
+    ]
+  },
+  "has_operating_partner": null,
+  "focus_west_or_california": null,
+  "direct_investing_evidence": {
+    "statement": "Tiempo Capital facilitates access to the complex world of private and direct investments, simplifying entry into exclusive markets for sustained growth and value across diverse sectors.",
+    "source_url": "https://tiempocapital.com/investment-management/"
+  },
+  "sector_statement": null,
+  "decision_maker": {
+    "name": "Philip Hackleman, CFA",
+    "title": "Chief Investment Officer",
+    "source_url": "https://tiempocapital.com/about/",
+    "selection_rule": "chief investment officer",
+    "in_contact_list": false,
+    "email": "needs lookup"
+  },
+  "contacts_in_our_list_at_firm": 1,
+  "gaps": [
+    "No thesis sentence found on pages read"
+  ]
+}

@@ -55,5 +55,75 @@
   "gaps": [
     "Press page lists 2026 headlines about portfolio companies (e.g. Thunder Compute, GetWhys), but they do not show CEAS's investment date, so no recent deal is recorded",
     "Geography: Delray Beach, FL based; US and Canada, no West focus stated"
+  ],
+  "site_status": "ok",
+  "dated_facts": [
+    {
+      "headline": "Basetwo closes $16.5-million CAD Series A round to optimize manufacturing with AI copilots",
+      "date": "2025-04-01",
+      "source_url": "https://www.ceasinvestments.com/",
+      "page_kind": "portfolio_or_home",
+      "is_recent": false,
+      "counts_as_firm_deal": false
+    },
+    {
+      "headline": "Shabodi closes $14 million CAD Series A to simplify 5G for developers",
+      "date": "2023-01-24",
+      "source_url": "https://www.ceasinvestments.com/",
+      "page_kind": "portfolio_or_home",
+      "is_recent": false,
+      "counts_as_firm_deal": false
+    },
+    {
+      "headline": "Habitat for Humanity and United Way Partner with SoLo Funds' New Initiative SoLo Causes: 'Make an Impact'",
+      "date": "2021-12-29",
+      "source_url": "https://www.ceasinvestments.com/",
+      "page_kind": "portfolio_or_home",
+      "is_recent": false,
+      "counts_as_firm_deal": false
+    },
+    {
+      "headline": "Fivetran to Acquire HVR; Announces $565 Million in Series D Funding",
+      "date": "2021-11-11",
+      "source_url": "https://www.ceasinvestments.com/",
+      "page_kind": "portfolio_or_home",
+      "is_recent": false,
+      "counts_as_firm_deal": false
+    },
+    {
+      "headline": "Carbon Lighthouse Closes $32.6M Growth Round",
+      "date": "2019-07-23",
+      "source_url": "https://www.ceasinvestments.com/",
+      "page_kind": "portfolio_or_home",
+      "is_recent": false,
+      "counts_as_firm_deal": false
+    },
+    {
+      "headline": "SeatGeek raises $57M to acquire ticketing software company TopTix",
+      "date": "2017-11-01",
+      "source_url": "https://www.ceasinvestments.com/",
+      "page_kind": "portfolio_or_home",
+      "is_recent": false,
+      "counts_as_firm_deal": false
+    }
+  ],
+  "stated_size_criteria": [],
+  "sector_statement": {
+    "statement": "Production intelligence software for industrial manufacturers.",
+    "source_url": "https://www.ceasinvestments.com/portfolio"
+  },
+  "decision_maker": {
+    "name": "Mike Wohl",
+    "title": "CHIEF INVESTMENT OFFICER",
+    "source_url": "https://www.ceasinvestments.com/team",
+    "selection_rule": "chief investment officer",
+    "in_contact_list": false,
+    "email": "needs lookup"
+  },
+  "contacts_in_our_list_at_firm": 2,
+  "team_flags": [],
+  "team_titles_seen": [
+    "CHIEF INVESTMENT OFFICER",
+    "JUNIOR PARTNER"
   ]
 }

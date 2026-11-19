@@ -1,0 +1,46 @@
+{
+  "firm_id": "F0567",
+  "firm": "Northwood Ventures",
+  "category": "independent_sponsor",
+  "source_sheet": "leads-classified",
+  "enriched_on": "2026-11-19",
+  "recent_cutoff": "2025-05-19",
+  "site_status": "ok",
+  "pages_read": [
+    "https://northwoodventures.com/",
+    "https://northwoodventures.com/team/",
+    "https://northwoodventures.com/portfolio/",
+    "https://northwoodventures.com/investment-types/"
+  ],
+  "stated_thesis": null,
+  "dated_facts": [],
+  "most_recent_dated_fact": null,
+  "stated_size_criteria": [],
+  "team_size_visible": {
+    "count": 4,
+    "basis": "4 people with titles found on https://northwoodventures.com/team/",
+    "source_url": "https://northwoodventures.com/team/",
+    "flags": [],
+    "titles_seen": [
+      "Heartland Paving Partners",
+      "Managing Partner & Founder",
+      "Partner"
+    ]
+  },
+  "has_operating_partner": null,
+  "focus_west_or_california": null,
+  "direct_investing_evidence": null,
+  "sector_statement": null,
+  "decision_maker": {
+    "name": "PETER SCHIFF",
+    "title": "Managing Partner & Founder",
+    "source_url": "https://northwoodventures.com/team/",
+    "selection_rule": "managing partner",
+    "in_contact_list": true,
+    "email": "pschiff@northwoodventures.com"
+  },
+  "contacts_in_our_list_at_firm": 2,
+  "gaps": [
+    "No thesis sentence found on pages read"
+  ]
+}

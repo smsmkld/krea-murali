@@ -36,5 +36,13 @@
     "Most recent deal found is from 2015, so no recent deal is shown",
     "Site homepage names no portfolio companies",
     "Team page not read"
-  ]
+  ],
+  "site_status": "ok",
+  "dated_facts": [],
+  "stated_size_criteria": [],
+  "sector_statement": null,
+  "decision_maker": null,
+  "contacts_in_our_list_at_firm": 1,
+  "team_flags": [],
+  "team_titles_seen": []
 }

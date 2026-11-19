@@ -1,0 +1,58 @@
+{
+  "firm_id": "F0362",
+  "firm": "Hillman Company",
+  "category": "family_office",
+  "source_sheet": "leads-classified",
+  "enriched_on": "2026-11-19",
+  "recent_cutoff": "2025-05-19",
+  "site_status": "ok",
+  "pages_read": [
+    "https://www.hillmancompany.com/",
+    "https://www.hillmancompany.com/team",
+    "https://www.hillmancompany.com/investment-philosophy"
+  ],
+  "stated_thesis": null,
+  "dated_facts": [],
+  "most_recent_dated_fact": null,
+  "stated_size_criteria": [],
+  "team_size_visible": {
+    "count": 12,
+    "basis": "12 people with titles found on https://www.hillmancompany.com/team",
+    "source_url": "https://www.hillmancompany.com/team",
+    "flags": [
+      "10_plus_people"
+    ],
+    "titles_seen": [
+      "Associate General Counsel",
+      "Chief Executive Officer",
+      "Director, Client Services",
+      "Director, Investments",
+      "Director, Reporting and Investment Analysis",
+      "Director, Strategic Initiatives",
+      "Manager, Business Systems",
+      "Managing Director"
+    ]
+  },
+  "has_operating_partner": null,
+  "focus_west_or_california": null,
+  "direct_investing_evidence": {
+    "statement": "We are experienced partners in private equity funds, as well as active and involved co-investors.",
+    "source_url": "https://www.hillmancompany.com/"
+  },
+  "sector_statement": {
+    "statement": "The reinvention of The Hillman Company began with Henry Hillman’s early endorsement of private equity in the 1970s, while the company transitioned from its industrial origins.",
+    "source_url": "https://www.hillmancompany.com/"
+  },
+  "decision_maker": {
+    "name": "Michael Haggerty",
+    "title": "Managing Director",
+    "source_url": "https://www.hillmancompany.com/team",
+    "selection_rule": "managing director",
+    "in_contact_list": false,
+    "email": "needs lookup"
+  },
+  "contacts_in_our_list_at_firm": 2,
+  "gaps": [
+    "No thesis sentence found on pages read"
+  ]
+}

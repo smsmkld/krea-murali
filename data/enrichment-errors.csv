@@ -8,3 +8,26 @@ F0122,Brener International Group,https://www.brenergroup.com/,Investments and Ou
 F0026,Agonic Partners,(web search),no announcements found; results were for similarly named firms and were not used
 F0207,Dark Alpha Capital,(web search),no announcements found; results were for unrelated firms and were not used
 F0111,Bondwell Capital,(web search),no announcements found; only an Axial profile with no named deals
+F0059,Ariet Capital,https://arietcapital.com/,ReadTimeout
+F0229,Dorman Group of Companies,https://dormangroupofcompanies.com/,ConnectionError
+F0341,Handmade Capital Management,https://handmadecapital.com/,HTTP 403
+F0341,Handmade Capital Management,https://www.handmadecapital.com/,HTTP 403
+F0229,Dorman Group of Companies,https://dormangroupofcompanies.com/about-us,ConnectionError
+F0477,Lunchline Partners,https://lunchlinepartners.com/,HTTP 403
+F0477,Lunchline Partners,https://www.lunchlinepartners.com/,HTTP 403
+F0759,T. Volk & Company,https://tvolkco.com/resources/LeavingFamBusiness_TV_20200510.pdf,skipped: login/portal/non-html URL
+S05,DMD Capital Group,https://dmdcapitalgroup.com/approach/,HTTP 404
+S09,Preserve Equity Partners,https://preserveequitypartners.com/wp-content/uploads/2026/11/PEP_Acquisition_Criteria.pdf,skipped: login/portal/non-html URL
+S05,DMD Capital Group,https://dmdcapitalgroup.com/investment-focus/,HTTP 404
+S03,Cortex Industrial Partners,http://cortexindustrialpartners.com/,ConnectionError
+S03,Cortex Industrial Partners,https://cortexindustrialpartners.com/,ConnectionError
+F0334,GSC Capital,http://gsc.capital/,ConnectionError
+F0334,GSC Capital,https://gsc.capital/team/,ConnectionError
+F0334,GSC Capital,https://gsc.capital/category/news/,ConnectionError
+F0294,Fremont Private Holdings,https://fremontprivateholdings.com/,site down: no page loaded; firm skipped
+F0399,InwestCo,https://inwestco.com/,site down: no page loaded; firm skipped
+F0419,Junson Capital,https://junsoncapital.com/,site down: no page loaded; firm skipped
+F0443,Kotti Capital,https://kotti.capital/,site down: no page loaded; firm skipped
+F0498,Matterhorn Endeavors,https://matterhornendeavors.com/,homepage is a login/password page; firm skipped
+F0538,Morales Capital,https://moralescapitalpartners.com/,site down: no page loaded; firm skipped
+F0626,Point Field Partners,https://pointfieldpartners.com/,robots.txt disallows crawling; firm skipped

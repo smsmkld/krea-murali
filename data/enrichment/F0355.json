@@ -1,0 +1,37 @@
+{
+  "firm_id": "F0355",
+  "firm": "HFO Investments",
+  "category": "family_office",
+  "source_sheet": "leads-classified",
+  "enriched_on": "2026-11-19",
+  "recent_cutoff": "2025-05-19",
+  "site_status": "ok",
+  "pages_read": [
+    "https://hfoinvestments.com/"
+  ],
+  "stated_thesis": null,
+  "dated_facts": [],
+  "most_recent_dated_fact": null,
+  "stated_size_criteria": [],
+  "team_size_visible": {
+    "count": 4,
+    "basis": "4 people with titles found on https://hfoinvestments.com/",
+    "source_url": "https://hfoinvestments.com/",
+    "flags": [],
+    "titles_seen": [
+      "CEO",
+      "CFO",
+      "President"
+    ]
+  },
+  "has_operating_partner": null,
+  "focus_west_or_california": null,
+  "direct_investing_evidence": null,
+  "sector_statement": null,
+  "decision_maker": null,
+  "contacts_in_our_list_at_firm": 1,
+  "gaps": [
+    "No thesis sentence found on pages read",
+    "No decision-maker with a matching title found on the site"
+  ]
+}

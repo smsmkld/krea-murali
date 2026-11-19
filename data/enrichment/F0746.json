@@ -1,0 +1,46 @@
+{
+  "firm_id": "F0746",
+  "firm": "StoneCreek Capital",
+  "category": "independent_sponsor",
+  "source_sheet": "leads-classified",
+  "enriched_on": "2026-11-19",
+  "recent_cutoff": "2025-05-19",
+  "site_status": "ok",
+  "pages_read": [
+    "https://www.stonecreekcapital.com/",
+    "https://www.stonecreekcapital.com/team.html",
+    "https://www.stonecreekcapital.com/portfolio.html",
+    "https://www.stonecreekcapital.com/index.html"
+  ],
+  "stated_thesis": null,
+  "dated_facts": [],
+  "most_recent_dated_fact": null,
+  "stated_size_criteria": [],
+  "team_size_visible": {
+    "count": 2,
+    "basis": "2 people with titles found on https://www.stonecreekcapital.com/team.html",
+    "source_url": "https://www.stonecreekcapital.com/team.html",
+    "flags": [],
+    "titles_seen": [
+      "Managing Director",
+      "President"
+    ]
+  },
+  "has_operating_partner": null,
+  "focus_west_or_california": {
+    "value": true,
+    "evidence": "California grocery store chain focusing primarily on the Hispanic community, providing",
+    "source_url": "https://www.stonecreekcapital.com/portfolio.html"
+  },
+  "direct_investing_evidence": null,
+  "sector_statement": {
+    "statement": "An industry-leading full-service provider of custom tradeshow exhibits, experiential, and digital events for corporate customers with national or global brands",
+    "source_url": "https://www.stonecreekcapital.com/portfolio.html"
+  },
+  "decision_maker": null,
+  "contacts_in_our_list_at_firm": 1,
+  "gaps": [
+    "No thesis sentence found on pages read",
+    "No decision-maker with a matching title found on the site"
+  ]
+}

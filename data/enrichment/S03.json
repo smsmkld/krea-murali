@@ -1,0 +1,57 @@
+{
+  "firm_id": "S03",
+  "firm": "Cortex Industrial Partners",
+  "category": "independent_sponsor",
+  "source_sheet": "IS directory sheet",
+  "enriched_on": "2026-11-19",
+  "recent_cutoff": "2025-05-19",
+  "site_status": "ok",
+  "pages_read": [
+    "https://cortexindustrialpartners.com/",
+    "https://cortexindustrialpartners.com/about-the-founder"
+  ],
+  "stated_thesis": null,
+  "dated_facts": [],
+  "most_recent_dated_fact": null,
+  "stated_size_criteria": [],
+  "team_size_visible": {
+    "count": 2,
+    "basis": "2 people with titles found on https://cortexindustrialpartners.com/about-the-founder",
+    "source_url": "https://cortexindustrialpartners.com/about-the-founder",
+    "flags": [],
+    "titles_seen": [
+      "Founder & Managing Director",
+      "Partners"
+    ]
+  },
+  "has_operating_partner": null,
+  "focus_west_or_california": null,
+  "direct_investing_evidence": null,
+  "sector_statement": {
+    "statement": "These businesses combine mechanical engineering, controls, safety systems, and vision technology into turnkey industrial solutions.",
+    "source_url": "https://cortexindustrialpartners.com/"
+  },
+  "decision_maker": {
+    "name": "Daniel Ghadiri, PhD",
+    "title": "Founder & Managing Director",
+    "source_url": "https://cortexindustrialpartners.com/about-the-founder",
+    "selection_rule": "founder",
+    "in_contact_list": false,
+    "email": "needs lookup"
+  },
+  "contacts_in_our_list_at_firm": 0,
+  "gaps": [
+    "No thesis sentence found on pages read"
+  ],
+  "directory_listing": {
+    "source_url": "https://cortexindustrialpartners.com/for-founders",
+    "date_checked": "2026-10-26",
+    "ebitda_min_m": "1",
+    "ebitda_max_m": "3",
+    "revenue_min_m": NaN,
+    "revenue_max_m": NaN,
+    "geography": NaN,
+    "sectors": "Industrial & manufacturing",
+    "self_description": "Cortex is an independent sponsor. We pursue acquisitions directly and partner with aligned investors on a deal-by-deal basis"
+  }
+}

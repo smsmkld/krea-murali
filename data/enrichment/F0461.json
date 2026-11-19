@@ -1,0 +1,77 @@
+{
+  "firm_id": "F0461",
+  "firm": "Lighthouse Equity Partners",
+  "category": "independent_sponsor",
+  "source_sheet": "leads-classified",
+  "enriched_on": "2026-11-19",
+  "recent_cutoff": "2025-05-19",
+  "site_status": "ok",
+  "pages_read": [
+    "https://lighthouseequitypartners.com/"
+  ],
+  "stated_thesis": null,
+  "dated_facts": [],
+  "most_recent_dated_fact": null,
+  "stated_size_criteria": [
+    {
+      "kind": "ebitda",
+      "lo_m": 3.0,
+      "hi_m": 5.0,
+      "sentence": "We target companies with EBITDA of about $1M and robust net profit margins near 20%. Ideal candidates have annual revenues between $3M and $5M, limited debt, and low capital expenditure needs. We pursue majority interests, typically around target EBITDA of $0.5M to $1.5M.",
+      "source_url": "https://lighthouseequitypartners.com/"
+    },
+    {
+      "kind": "ebitda",
+      "lo_m": 0.5,
+      "hi_m": 1.5,
+      "sentence": "We target companies with EBITDA of about $1M and robust net profit margins near 20%. Ideal candidates have annual revenues between $3M and $5M, limited debt, and low capital expenditure needs. We pursue majority interests, typically around target EBITDA of $0.5M to $1.5M.",
+      "source_url": "https://lighthouseequitypartners.com/"
+    },
+    {
+      "kind": "revenue",
+      "lo_m": 3.0,
+      "hi_m": 5.0,
+      "sentence": "We target companies with EBITDA of about $1M and robust net profit margins near 20%. Ideal candidates have annual revenues between $3M and $5M, limited debt, and low capital expenditure needs. We pursue majority interests, typically around target EBITDA of $0.5M to $1.5M.",
+      "source_url": "https://lighthouseequitypartners.com/"
+    },
+    {
+      "kind": "revenue",
+      "lo_m": 0.5,
+      "hi_m": 1.5,
+      "sentence": "We target companies with EBITDA of about $1M and robust net profit margins near 20%. Ideal candidates have annual revenues between $3M and $5M, limited debt, and low capital expenditure needs. We pursue majority interests, typically around target EBITDA of $0.5M to $1.5M.",
+      "source_url": "https://lighthouseequitypartners.com/"
+    }
+  ],
+  "team_size_visible": {
+    "count": 4,
+    "basis": "4 people with titles found on https://lighthouseequitypartners.com/",
+    "source_url": "https://lighthouseequitypartners.com/",
+    "flags": [],
+    "titles_seen": [
+      "Advisor & Partner, AI & Automation",
+      "Advisor & Partner, Consumer Marketing",
+      "Advisor & Partner, Marketing & Strategy",
+      "Managing Partner"
+    ]
+  },
+  "has_operating_partner": {
+    "value": true,
+    "evidence": "Operating partners and advisors with depth across finance, marketing, technology, and medicine, aligned around building better companies.",
+    "source_url": "https://lighthouseequitypartners.com/"
+  },
+  "focus_west_or_california": null,
+  "direct_investing_evidence": null,
+  "sector_statement": null,
+  "decision_maker": {
+    "name": "George Nanos",
+    "title": "Managing Partner",
+    "source_url": "https://lighthouseequitypartners.com/",
+    "selection_rule": "managing partner",
+    "in_contact_list": true,
+    "email": "george.nanos@lighthouseequitypartners.com"
+  },
+  "contacts_in_our_list_at_firm": 1,
+  "gaps": [
+    "No thesis sentence found on pages read"
+  ]
+}

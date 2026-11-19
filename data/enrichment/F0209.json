@@ -1,0 +1,41 @@
+{
+  "firm_id": "F0209",
+  "firm": "Davis Family Office",
+  "category": "family_office",
+  "source_sheet": "leads-classified",
+  "enriched_on": "2026-11-19",
+  "recent_cutoff": "2025-05-19",
+  "site_status": "ok",
+  "pages_read": [
+    "https://davisofc.com/",
+    "https://davisofc.com/team"
+  ],
+  "stated_thesis": null,
+  "dated_facts": [],
+  "most_recent_dated_fact": null,
+  "stated_size_criteria": [],
+  "team_size_visible": {
+    "count": 3,
+    "basis": "3 people with titles found on https://davisofc.com/team",
+    "source_url": "https://davisofc.com/team",
+    "flags": [],
+    "titles_seen": [
+      "Chief Operating Officer",
+      "Controller",
+      "President & Chief Financial Officer"
+    ]
+  },
+  "has_operating_partner": null,
+  "focus_west_or_california": null,
+  "direct_investing_evidence": null,
+  "sector_statement": {
+    "statement": "Davis Family Office is a private family office holding majority control positions in service-based businesses across the industrial construction, infrastructure, and mission-critical sectors.",
+    "source_url": "https://davisofc.com/"
+  },
+  "decision_maker": null,
+  "contacts_in_our_list_at_firm": 2,
+  "gaps": [
+    "No thesis sentence found on pages read",
+    "No decision-maker with a matching title found on the site"
+  ]
+}

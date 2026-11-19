@@ -1,0 +1,44 @@
+{
+  "firm_id": "F0803",
+  "firm": "TriplePoint Equity",
+  "category": "independent_sponsor",
+  "source_sheet": "leads-classified",
+  "enriched_on": "2026-11-19",
+  "recent_cutoff": "2025-05-19",
+  "site_status": "ok",
+  "pages_read": [
+    "https://www.triplepointequity.com/",
+    "https://www.triplepointequity.com/about"
+  ],
+  "stated_thesis": null,
+  "dated_facts": [],
+  "most_recent_dated_fact": null,
+  "stated_size_criteria": [
+    {
+      "kind": "ebitda",
+      "lo_m": 1.0,
+      "hi_m": 5.0,
+      "sentence": "$1M – $5M EBITDA",
+      "source_url": "https://www.triplepointequity.com/"
+    }
+  ],
+  "team_size_visible": {
+    "count": 1,
+    "basis": "1 people with titles found on https://www.triplepointequity.com/",
+    "source_url": "https://www.triplepointequity.com/",
+    "flags": [],
+    "titles_seen": [
+      "Become an Owner-CEO"
+    ]
+  },
+  "has_operating_partner": null,
+  "focus_west_or_california": null,
+  "direct_investing_evidence": null,
+  "sector_statement": null,
+  "decision_maker": null,
+  "contacts_in_our_list_at_firm": 1,
+  "gaps": [
+    "No thesis sentence found on pages read",
+    "No decision-maker with a matching title found on the site"
+  ]
+}

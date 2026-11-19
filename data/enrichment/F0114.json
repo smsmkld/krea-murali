@@ -75,5 +75,92 @@
     "Site lists more portfolio companies than shown here (8 platform companies, 22 acquisitions per homepage); only some read",
     "No \"operating partner\" title found on the team page"
   ],
-  "direct_investing_evidence_note": "Not applicable: not typed as a family office"
+  "direct_investing_evidence_note": "Not applicable: not typed as a family office",
+  "site_status": "ok",
+  "dated_facts": [
+    {
+      "headline": "Know Who You’re Selling To: Sequoya Borgman on Private Equity and Preparing for an Exit",
+      "date": "2026-10-13",
+      "source_url": "https://www.borgmancapital.com/news",
+      "page_kind": "firm_news",
+      "is_recent": true,
+      "counts_as_firm_deal": true
+    },
+    {
+      "headline": "Borgman Capital Announces Sale of Continuus Technologies to Acuity Analytics",
+      "date": "2026-10-08",
+      "source_url": "https://www.borgmancapital.com/news",
+      "page_kind": "firm_news",
+      "is_recent": true,
+      "counts_as_firm_deal": true
+    },
+    {
+      "headline": "Professional Concrete Cutting & Drilling Partners with Borgman Capital",
+      "date": "2026-08-25",
+      "source_url": "https://www.borgmancapital.com/news",
+      "page_kind": "firm_news",
+      "is_recent": true,
+      "counts_as_firm_deal": true
+    }
+  ],
+  "stated_size_criteria": [
+    {
+      "kind": "revenue",
+      "lo_m": 10.0,
+      "hi_m": 100.0,
+      "sentence": "$10 million to $100 million in annual revenue",
+      "source_url": "https://www.borgmancapital.com/"
+    },
+    {
+      "kind": "ebitda",
+      "lo_m": 2.0,
+      "hi_m": 15.0,
+      "sentence": "EBITDA between $2 and $15 million",
+      "source_url": "https://www.borgmancapital.com/companies-criteria"
+    },
+    {
+      "kind": "revenue",
+      "lo_m": 10.0,
+      "hi_m": 100.0,
+      "sentence": "Revenue of $10 to $100 million",
+      "source_url": "https://www.borgmancapital.com/companies-criteria"
+    },
+    {
+      "kind": "revenue",
+      "lo_m": 10.0,
+      "hi_m": 100.0,
+      "sentence": "For platform companies, we focus on businesses with annual revenues between $10 and $100 million.",
+      "source_url": "https://www.borgmancapital.com/companies-criteria"
+    }
+  ],
+  "sector_statement": {
+    "statement": "While the major players in the heavy equipment manufacturing space focus on a variety of equipment types, Harlo provides a superior product by focusing on one specialized offering: rough terrain forklifts.",
+    "source_url": "https://www.borgmancapital.com/our-companies-current"
+  },
+  "decision_maker": {
+    "name": "Sequoya Borgman",
+    "title": "Founder and CEO",
+    "source_url": "https://www.borgmancapital.com/team",
+    "selection_rule": "founder",
+    "in_contact_list": true,
+    "email": "sequoya.borgman@borgmancapital.com"
+  },
+  "contacts_in_our_list_at_firm": 2,
+  "team_flags": [
+    "associates_or_analysts",
+    "10_plus_people"
+  ],
+  "team_titles_seen": [
+    "Associate",
+    "Founder and CEO",
+    "Managing Director",
+    "Managing Director and Shareholder",
+    "Managing Director-Deal Originations",
+    "Managing Director-Portfolio Management",
+    "Managing Director-Real Estate Investments",
+    "Senior Associate",
+    "Vice President-Deal Originations",
+    "Vice President-Firm Operations and Marketing",
+    "Vice President-Real Estate Investments"
+  ]
 }

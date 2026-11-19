@@ -1,0 +1,35 @@
+{
+  "firm_id": "F0736",
+  "firm": "Spring Stream Capital",
+  "category": "independent_sponsor",
+  "source_sheet": "leads-classified",
+  "enriched_on": "2026-11-19",
+  "recent_cutoff": "2025-05-19",
+  "site_status": "ok",
+  "pages_read": [
+    "https://www.springstreamcapital.com/",
+    "https://www.springstreamcapital.com/team",
+    "https://www.springstreamcapital.com/investment-criteria",
+    "https://www.springstreamcapital.com/about"
+  ],
+  "stated_thesis": null,
+  "dated_facts": [],
+  "most_recent_dated_fact": null,
+  "stated_size_criteria": [],
+  "team_size_visible": null,
+  "has_operating_partner": null,
+  "focus_west_or_california": {
+    "value": false,
+    "evidence": "Spring Stream Capital (“SSC”) is a long-term capital investment firm based in New York, NY that is focused on acquiring a business in the United States with the goal of operating and growing that business over an extended period of time.",
+    "source_url": "https://www.springstreamcapital.com/"
+  },
+  "direct_investing_evidence": null,
+  "sector_statement": null,
+  "decision_maker": null,
+  "contacts_in_our_list_at_firm": 1,
+  "gaps": [
+    "No thesis sentence found on pages read",
+    "No team page with names and titles found",
+    "No decision-maker with a matching title found on the site"
+  ]
+}

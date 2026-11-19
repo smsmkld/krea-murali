@@ -1,0 +1,55 @@
+{
+  "firm_id": "F0847",
+  "firm": "Whitford Management",
+  "category": "family_office",
+  "source_sheet": "leads-classified",
+  "enriched_on": "2026-11-19",
+  "recent_cutoff": "2025-05-19",
+  "site_status": "ok",
+  "pages_read": [
+    "https://www.whitfordmanagement.com/",
+    "https://www.whitfordmanagement.com/our-team/",
+    "https://www.whitfordmanagement.com/approach/",
+    "https://www.whitfordmanagement.com/about/"
+  ],
+  "stated_thesis": null,
+  "dated_facts": [],
+  "most_recent_dated_fact": null,
+  "stated_size_criteria": [],
+  "team_size_visible": {
+    "count": 12,
+    "basis": "12 people with titles found on https://www.whitfordmanagement.com/our-team/",
+    "source_url": "https://www.whitfordmanagement.com/our-team/",
+    "flags": [
+      "associates_or_analysts",
+      "10_plus_people"
+    ],
+    "titles_seen": [
+      "Chief Financial Officer",
+      "Controller",
+      "Family Office Director",
+      "Finance Associate",
+      "General Counsel and Chief Compliance Officer",
+      "Head of Administration James Hu Investments Associate Nam Lu",
+      "Investments Associate",
+      "Investments Vice President",
+      "President & Chief Investment Officer"
+    ]
+  },
+  "has_operating_partner": null,
+  "focus_west_or_california": null,
+  "direct_investing_evidence": null,
+  "sector_statement": null,
+  "decision_maker": {
+    "name": "Thomas Anderman",
+    "title": "President & Chief Investment Officer",
+    "source_url": "https://www.whitfordmanagement.com/our-team/",
+    "selection_rule": "chief investment officer",
+    "in_contact_list": true,
+    "email": "tanderman@whitfordmgmt.com"
+  },
+  "contacts_in_our_list_at_firm": 2,
+  "gaps": [
+    "No thesis sentence found on pages read"
+  ]
+}

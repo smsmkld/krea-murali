@@ -1,0 +1,34 @@
+{
+  "firm_id": "F0334",
+  "firm": "GSC Capital",
+  "category": "family_office",
+  "source_sheet": "leads-classified",
+  "enriched_on": "2026-11-19",
+  "recent_cutoff": "2025-05-19",
+  "site_status": "ok",
+  "pages_read": [
+    "https://gsc.capital/"
+  ],
+  "stated_thesis": null,
+  "dated_facts": [],
+  "most_recent_dated_fact": null,
+  "stated_size_criteria": [],
+  "team_size_visible": null,
+  "has_operating_partner": null,
+  "focus_west_or_california": null,
+  "direct_investing_evidence": {
+    "statement": "Backed by a pan-European equity base of family offices and co-investors, GSC takes on a flexible and long-term investment approach providing industrial capital and operational support to our partner companies.",
+    "source_url": "https://gsc.capital/"
+  },
+  "sector_statement": {
+    "statement": "GSC Capital is an industrial holding that invests long-term in medium-sized businesses and infrastructure in Northern Italy providing patient industrial capital.",
+    "source_url": "https://gsc.capital/"
+  },
+  "decision_maker": null,
+  "contacts_in_our_list_at_firm": 1,
+  "gaps": [
+    "No thesis sentence found on pages read",
+    "No team page with names and titles found",
+    "No decision-maker with a matching title found on the site"
+  ]
+}

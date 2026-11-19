@@ -1,0 +1,32 @@
+{
+  "firm_id": "F0331",
+  "firm": "GreenScale Capital",
+  "category": "independent_sponsor",
+  "source_sheet": "leads-classified",
+  "enriched_on": "2026-11-19",
+  "recent_cutoff": "2025-05-19",
+  "site_status": "ok",
+  "pages_read": [
+    "https://www.greenscalecapital.com/",
+    "https://www.greenscalecapital.com/about"
+  ],
+  "stated_thesis": null,
+  "dated_facts": [],
+  "most_recent_dated_fact": null,
+  "stated_size_criteria": [],
+  "team_size_visible": null,
+  "has_operating_partner": null,
+  "focus_west_or_california": null,
+  "direct_investing_evidence": null,
+  "sector_statement": {
+    "statement": "Specialized advisory and project finance for advanced industrial and energy technologies growing from prototype to commercial deployment",
+    "source_url": "https://www.greenscalecapital.com/"
+  },
+  "decision_maker": null,
+  "contacts_in_our_list_at_firm": 1,
+  "gaps": [
+    "No thesis sentence found on pages read",
+    "No team page with names and titles found",
+    "No decision-maker with a matching title found on the site"
+  ]
+}

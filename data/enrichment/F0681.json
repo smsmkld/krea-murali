@@ -1,0 +1,61 @@
+{
+  "firm_id": "F0681",
+  "firm": "Rucker Investments",
+  "category": "family_office",
+  "source_sheet": "leads-classified",
+  "enriched_on": "2026-11-19",
+  "recent_cutoff": "2025-05-19",
+  "site_status": "ok",
+  "pages_read": [
+    "https://ruckerinvestments.com/",
+    "https://ruckerinvestments.com/about/",
+    "https://ruckerinvestments.com/in-the-news/"
+  ],
+  "stated_thesis": null,
+  "dated_facts": [],
+  "most_recent_dated_fact": null,
+  "stated_size_criteria": [],
+  "team_size_visible": {
+    "count": 25,
+    "basis": "25 people with titles found on https://ruckerinvestments.com/about/",
+    "source_url": "https://ruckerinvestments.com/about/",
+    "flags": [
+      "associates_or_analysts",
+      "10_plus_people"
+    ],
+    "titles_seen": [
+      "Analyst",
+      "Associate General Counsel",
+      "Chief Revenue Officer",
+      "Director of Accounting",
+      "Director of Facilities",
+      "Director of Food & Beverage",
+      "Director of Nightlife & Entertainment",
+      "Director of Pawsitivity",
+      "Director of Security",
+      "Director of Sock Acquisitions",
+      "Founder",
+      "Junior Business Analyst",
+      "Partners in February",
+      "Private Equity Analyst",
+      "Real Estate Analyst",
+      "Senior Advisor",
+      "VP of Special Projects",
+      "Vice President & General Counsel",
+      "Vice President of Finance"
+    ]
+  },
+  "has_operating_partner": null,
+  "focus_west_or_california": null,
+  "direct_investing_evidence": null,
+  "sector_statement": {
+    "statement": "30+ Years of Industrial Automation, Operations and Supply Chain Experience with Start Up Companies and Fortune 25 Companies.",
+    "source_url": "https://ruckerinvestments.com/"
+  },
+  "decision_maker": null,
+  "contacts_in_our_list_at_firm": 2,
+  "gaps": [
+    "No thesis sentence found on pages read",
+    "No decision-maker with a matching title found on the site"
+  ]
+}

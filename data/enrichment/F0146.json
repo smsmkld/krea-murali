@@ -53,5 +53,30 @@
     "No team page; team size not visible",
     "Geography not stated (New York office)"
   ],
-  "direct_investing_evidence_note": "Not applicable: not typed as a family office"
+  "direct_investing_evidence_note": "Not applicable: not typed as a family office",
+  "site_status": "ok",
+  "dated_facts": [
+    {
+      "headline": "Rebound Medical Receives Growth Equity Investment from Castleford Capital",
+      "date": "2024-04-08",
+      "source_url": "https://castlefordcapital.com/news/",
+      "page_kind": "firm_news",
+      "is_recent": false,
+      "counts_as_firm_deal": true
+    }
+  ],
+  "stated_size_criteria": [
+    {
+      "kind": "revenue",
+      "lo_m": 10.0,
+      "hi_m": 250.0,
+      "sentence": "Revenues of $10 million to $250 million",
+      "source_url": "https://castlefordcapital.com/"
+    }
+  ],
+  "sector_statement": null,
+  "decision_maker": null,
+  "contacts_in_our_list_at_firm": 1,
+  "team_flags": [],
+  "team_titles_seen": []
 }

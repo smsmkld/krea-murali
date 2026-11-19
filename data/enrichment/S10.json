@@ -1,0 +1,56 @@
+{
+  "firm_id": "S10",
+  "firm": "Rannerdale Capital",
+  "category": "independent_sponsor",
+  "source_sheet": "IS directory sheet",
+  "enriched_on": "2026-11-19",
+  "recent_cutoff": "2025-05-19",
+  "site_status": "ok",
+  "pages_read": [
+    "https://www.rannerdale.com/",
+    "https://www.rannerdale.com/portfolio",
+    "https://www.rannerdale.com/about"
+  ],
+  "stated_thesis": null,
+  "dated_facts": [],
+  "most_recent_dated_fact": null,
+  "stated_size_criteria": [
+    {
+      "kind": "ebitda",
+      "lo_m": 1.0,
+      "hi_m": 3.0,
+      "sentence": "Rannerdale is focused on companies with $1-$3 million of EBITDA.",
+      "source_url": "https://www.rannerdale.com/about"
+    }
+  ],
+  "team_size_visible": null,
+  "has_operating_partner": null,
+  "focus_west_or_california": {
+    "value": false,
+    "evidence": "Rannerdale is headquartered in New York City and is focused on investment opportunities in the United States.",
+    "source_url": "https://www.rannerdale.com/about"
+  },
+  "direct_investing_evidence": null,
+  "sector_statement": {
+    "statement": "Niche opportunities in industrials, housebuilding, hospitality, real estate, retail, food chain and agriculture.",
+    "source_url": "https://www.rannerdale.com/about"
+  },
+  "decision_maker": null,
+  "contacts_in_our_list_at_firm": 0,
+  "gaps": [
+    "No thesis sentence found on pages read",
+    "No team page with names and titles found",
+    "No decision-maker with a matching title found on the site"
+  ],
+  "directory_listing": {
+    "source_url": "https://rannerdale.com/about",
+    "date_checked": "2026-10-26",
+    "ebitda_min_m": "1",
+    "ebitda_max_m": "3",
+    "revenue_min_m": NaN,
+    "revenue_max_m": NaN,
+    "geography": "United States",
+    "sectors": "Industrial & manufacturing; Building products & construction; Consumer",
+    "self_description": "\"Rannerdale is both an independent sponsor and the private investment vehicle for its founder's family\""
+  }
+}

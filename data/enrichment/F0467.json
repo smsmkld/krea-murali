@@ -1,0 +1,47 @@
+{
+  "firm_id": "F0467",
+  "firm": "LinkStreet",
+  "category": "family_office",
+  "source_sheet": "leads-classified",
+  "enriched_on": "2026-11-19",
+  "recent_cutoff": "2025-05-19",
+  "site_status": "ok",
+  "pages_read": [
+    "https://linkstreetcapital.com/"
+  ],
+  "stated_thesis": null,
+  "dated_facts": [],
+  "most_recent_dated_fact": null,
+  "stated_size_criteria": [],
+  "team_size_visible": {
+    "count": 4,
+    "basis": "4 people with titles found on https://linkstreetcapital.com/",
+    "source_url": "https://linkstreetcapital.com/",
+    "flags": [],
+    "titles_seen": [
+      "Advisor",
+      "Founder, Managing Principal",
+      "Managing Director",
+      "Principal, Chief Financial Officer"
+    ]
+  },
+  "has_operating_partner": null,
+  "focus_west_or_california": null,
+  "direct_investing_evidence": {
+    "statement": "These events present a chance to explore potential co-investment opportunities, exchange valuable insights, and foster meaningful connections within the family office community.",
+    "source_url": "https://linkstreetcapital.com/"
+  },
+  "sector_statement": null,
+  "decision_maker": {
+    "name": "Michael Conway",
+    "title": "Managing Director",
+    "source_url": "https://linkstreetcapital.com/",
+    "selection_rule": "managing director",
+    "in_contact_list": true,
+    "email": "mconway@linkstreetcapital.com"
+  },
+  "contacts_in_our_list_at_firm": 2,
+  "gaps": [
+    "No thesis sentence found on pages read"
+  ]
+}

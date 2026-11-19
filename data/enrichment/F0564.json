@@ -1,0 +1,135 @@
+{
+  "firm_id": "F0564",
+  "firm": "Nolan Capital",
+  "category": "family_office",
+  "source_sheet": "leads-classified",
+  "enriched_on": "2026-11-19",
+  "recent_cutoff": "2025-05-19",
+  "site_status": "ok",
+  "pages_read": [
+    "https://nolancap.com/",
+    "https://nolancap.com/team/",
+    "https://nolancap.com/investments/",
+    "https://nolancap.com/former-investments/",
+    "https://nolancap.com/operating-companies/",
+    "https://nolancap.com/news/",
+    "https://nolancap.com/about/",
+    "https://nolancap.com/investment/"
+  ],
+  "stated_thesis": null,
+  "dated_facts": [
+    {
+      "headline": "Water Engineering Inc. announces the Acquisition of LDW Water Technologies, Inc.",
+      "date": "2025-07-01",
+      "source_url": "https://nolancap.com/news/",
+      "page_kind": "firm_news",
+      "is_recent": true,
+      "counts_as_firm_deal": false
+    },
+    {
+      "headline": "Water Engineering Inc. announces the Acquisition of Gotham Refining Chemical Corp.",
+      "date": "2024-09-25",
+      "source_url": "https://nolancap.com/news/",
+      "page_kind": "firm_news",
+      "is_recent": false,
+      "counts_as_firm_deal": false
+    },
+    {
+      "headline": "Water Engineering Inc. announces the Acquisition of WET Solutions",
+      "date": "2024-05-03",
+      "source_url": "https://nolancap.com/news/",
+      "page_kind": "firm_news",
+      "is_recent": false,
+      "counts_as_firm_deal": false
+    },
+    {
+      "headline": "Water Engineering Inc. announces the Acquisition of Earthwise Environmental",
+      "date": "2023-09-20",
+      "source_url": "https://nolancap.com/news/",
+      "page_kind": "firm_news",
+      "is_recent": false,
+      "counts_as_firm_deal": false
+    },
+    {
+      "headline": "Water Engineering Inc. announces the Acquisition of Delta Chemical Corp.",
+      "date": "2023-05-23",
+      "source_url": "https://nolancap.com/news/",
+      "page_kind": "firm_news",
+      "is_recent": false,
+      "counts_as_firm_deal": false
+    },
+    {
+      "headline": "Water Engineering Inc. announces the Acquisition of Chem Pro Laboratory, Inc.",
+      "date": "2022-09-06",
+      "source_url": "https://nolancap.com/news/",
+      "page_kind": "firm_news",
+      "is_recent": false,
+      "counts_as_firm_deal": false
+    },
+    {
+      "headline": "Water Engineering Inc. announces the Acquisition of American Water Treatment, Inc.",
+      "date": "2022-07-13",
+      "source_url": "https://nolancap.com/news/",
+      "page_kind": "firm_news",
+      "is_recent": false,
+      "counts_as_firm_deal": false
+    },
+    {
+      "headline": "Nolan Capital, Inc. Announces Acquisition of a Majority Stake in Water Engineering, Inc.",
+      "date": "2022-03-21",
+      "source_url": "https://nolancap.com/news/",
+      "page_kind": "firm_news",
+      "is_recent": false,
+      "counts_as_firm_deal": true
+    }
+  ],
+  "most_recent_dated_fact": {
+    "headline": "Water Engineering Inc. announces the Acquisition of LDW Water Technologies, Inc.",
+    "date": "2025-07-01",
+    "source_url": "https://nolancap.com/news/",
+    "page_kind": "firm_news",
+    "is_recent": true,
+    "counts_as_firm_deal": false
+  },
+  "stated_size_criteria": [],
+  "team_size_visible": {
+    "count": 9,
+    "basis": "9 people with titles found on https://nolancap.com/team/",
+    "source_url": "https://nolancap.com/team/",
+    "flags": [
+      "associates_or_analysts"
+    ],
+    "titles_seen": [
+      "Chairman",
+      "Chief Financial Officer",
+      "Chief Investment Officer",
+      "Partners, CVS, Rite Aid, Steinway Selmer Corporation and Ori",
+      "Principal",
+      "Senior Advisor",
+      "Senior Analyst",
+      "Vice President"
+    ]
+  },
+  "has_operating_partner": null,
+  "focus_west_or_california": null,
+  "direct_investing_evidence": {
+    "statement": "We originate, execute and manage operating companies, real estate and other investments on behalf of the Nolan family.",
+    "source_url": "https://nolancap.com/"
+  },
+  "sector_statement": {
+    "statement": "Water Engineering is a leading provider of industrial water treatment solutions and products, technical consultation and services for a wide variety of end market applications.",
+    "source_url": "https://nolancap.com/operating-companies/"
+  },
+  "decision_maker": {
+    "name": "Rob Weitz",
+    "title": "Chief Investment Officer",
+    "source_url": "https://nolancap.com/team/",
+    "selection_rule": "chief investment officer",
+    "in_contact_list": true,
+    "email": "weitz@nolancap.com"
+  },
+  "contacts_in_our_list_at_firm": 1,
+  "gaps": [
+    "No thesis sentence found on pages read"
+  ]
+}

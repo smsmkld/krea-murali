@@ -1,0 +1,46 @@
+{
+  "firm_id": "F0607",
+  "firm": "Penstock Equity",
+  "category": "independent_sponsor",
+  "source_sheet": "leads-classified",
+  "enriched_on": "2026-11-19",
+  "recent_cutoff": "2025-05-19",
+  "site_status": "ok",
+  "pages_read": [
+    "https://www.penstockequity.com/"
+  ],
+  "stated_thesis": null,
+  "dated_facts": [],
+  "most_recent_dated_fact": null,
+  "stated_size_criteria": [],
+  "team_size_visible": {
+    "count": 5,
+    "basis": "5 people with titles found on https://www.penstockequity.com/",
+    "source_url": "https://www.penstockequity.com/",
+    "flags": [
+      "associates_or_analysts"
+    ],
+    "titles_seen": [
+      "Associate",
+      "Controller",
+      "Managing Partner",
+      "Vice President"
+    ]
+  },
+  "has_operating_partner": null,
+  "focus_west_or_california": null,
+  "direct_investing_evidence": null,
+  "sector_statement": null,
+  "decision_maker": {
+    "name": "DAVE HIEMSTRA",
+    "title": "Managing Partner",
+    "source_url": "https://www.penstockequity.com/",
+    "selection_rule": "managing partner",
+    "in_contact_list": true,
+    "email": "dave@penstockequity.com"
+  },
+  "contacts_in_our_list_at_firm": 2,
+  "gaps": [
+    "No thesis sentence found on pages read"
+  ]
+}

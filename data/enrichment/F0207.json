@@ -33,5 +33,35 @@
     "No deals or portfolio listed on site; web search found no announcements",
     "Geography stated only as US-headquartered companies"
   ],
-  "direct_investing_evidence_note": "Not applicable: not typed as a family office"
+  "direct_investing_evidence_note": "Not applicable: not typed as a family office",
+  "site_status": "ok",
+  "dated_facts": [],
+  "stated_size_criteria": [],
+  "sector_statement": {
+    "statement": "Advanced manufacturing technologies driving innovation across industries.",
+    "source_url": "https://darkalphacapital.com/strategy"
+  },
+  "decision_maker": {
+    "name": "Destiny Aigbe",
+    "title": "Managing Partner",
+    "source_url": "https://darkalphacapital.com/team",
+    "selection_rule": "managing partner",
+    "in_contact_list": true,
+    "email": "da@darkalphacapital.com"
+  },
+  "contacts_in_our_list_at_firm": 2,
+  "team_flags": [
+    "associates_or_analysts",
+    "10_plus_people"
+  ],
+  "team_titles_seen": [
+    "Analyst",
+    "Associate",
+    "Driving Growth: Meet Our Operating Partners",
+    "Managing Director",
+    "Managing Partner",
+    "Senior Managing Director",
+    "Senior Vice President",
+    "Vice President"
+  ]
 }

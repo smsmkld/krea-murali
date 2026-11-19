@@ -1,0 +1,44 @@
+{
+  "firm_id": "F0657",
+  "firm": "Ramex",
+  "category": "family_office",
+  "source_sheet": "leads-classified",
+  "enriched_on": "2026-11-19",
+  "recent_cutoff": "2025-05-19",
+  "site_status": "ok",
+  "pages_read": [
+    "https://ramexinc.com/"
+  ],
+  "stated_thesis": null,
+  "dated_facts": [],
+  "most_recent_dated_fact": null,
+  "stated_size_criteria": [],
+  "team_size_visible": {
+    "count": 1,
+    "basis": "1 people with titles found on https://ramexinc.com/",
+    "source_url": "https://ramexinc.com/",
+    "flags": [],
+    "titles_seen": [
+      "Managing Director"
+    ]
+  },
+  "has_operating_partner": null,
+  "focus_west_or_california": null,
+  "direct_investing_evidence": {
+    "statement": "We welcome inquiries from fund managers, co-investors, and intermediaries.",
+    "source_url": "https://ramexinc.com/"
+  },
+  "sector_statement": null,
+  "decision_maker": {
+    "name": "Simon Wachsberg",
+    "title": "Managing Director",
+    "source_url": "https://ramexinc.com/",
+    "selection_rule": "managing director",
+    "in_contact_list": true,
+    "email": "simon@ramexinc.com"
+  },
+  "contacts_in_our_list_at_firm": 1,
+  "gaps": [
+    "No thesis sentence found on pages read"
+  ]
+}

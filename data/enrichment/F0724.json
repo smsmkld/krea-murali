@@ -1,0 +1,41 @@
+{
+  "firm_id": "F0724",
+  "firm": "Sonder Partners",
+  "category": "family_office",
+  "source_sheet": "leads-classified",
+  "enriched_on": "2026-11-19",
+  "recent_cutoff": "2025-05-19",
+  "site_status": "ok",
+  "pages_read": [
+    "https://sonderpartners.com/"
+  ],
+  "stated_thesis": null,
+  "dated_facts": [],
+  "most_recent_dated_fact": null,
+  "stated_size_criteria": [],
+  "team_size_visible": {
+    "count": 6,
+    "basis": "6 people with titles found on https://sonderpartners.com/",
+    "source_url": "https://sonderpartners.com/",
+    "flags": [
+      "associates_or_analysts"
+    ],
+    "titles_seen": [
+      "Advisors in over",
+      "Analyst designation",
+      "Co-Founder / Managing Partner",
+      "Founders Network Committee FAQ CONTACT Find Your Family Offi",
+      "Partners where he incubated over"
+    ]
+  },
+  "has_operating_partner": null,
+  "focus_west_or_california": null,
+  "direct_investing_evidence": null,
+  "sector_statement": null,
+  "decision_maker": null,
+  "contacts_in_our_list_at_firm": 2,
+  "gaps": [
+    "No thesis sentence found on pages read",
+    "No decision-maker with a matching title found on the site"
+  ]
+}

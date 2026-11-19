@@ -1,0 +1,44 @@
+{
+  "firm_id": "F0540",
+  "firm": "Mountview Partners",
+  "category": "family_office",
+  "source_sheet": "leads-classified",
+  "enriched_on": "2026-11-19",
+  "recent_cutoff": "2025-05-19",
+  "site_status": "ok",
+  "pages_read": [
+    "http://mountviewpartners.com/"
+  ],
+  "stated_thesis": null,
+  "dated_facts": [],
+  "most_recent_dated_fact": null,
+  "stated_size_criteria": [
+    {
+      "kind": "revenue",
+      "lo_m": 1.0,
+      "hi_m": 10.0,
+      "sentence": "Revenue in the range of $1M–$10M ARR",
+      "source_url": "http://mountviewpartners.com/"
+    }
+  ],
+  "team_size_visible": {
+    "count": 2,
+    "basis": "2 people with titles found on http://mountviewpartners.com/",
+    "source_url": "http://mountviewpartners.com/",
+    "flags": [],
+    "titles_seen": [
+      "Managing Partner",
+      "Partner"
+    ]
+  },
+  "has_operating_partner": null,
+  "focus_west_or_california": null,
+  "direct_investing_evidence": null,
+  "sector_statement": null,
+  "decision_maker": null,
+  "contacts_in_our_list_at_firm": 2,
+  "gaps": [
+    "No thesis sentence found on pages read",
+    "No decision-maker with a matching title found on the site"
+  ]
+}

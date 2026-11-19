@@ -1,0 +1,109 @@
+{
+  "firm_id": "F0574",
+  "firm": "OceanM19",
+  "category": "family_office",
+  "source_sheet": "leads-classified",
+  "enriched_on": "2026-11-19",
+  "recent_cutoff": "2025-05-19",
+  "site_status": "ok",
+  "pages_read": [
+    "https://oceanm19.com/"
+  ],
+  "stated_thesis": null,
+  "dated_facts": [
+    {
+      "headline": "Acquired Dec 1992 (2013 Exit)",
+      "date": "2020-09-01",
+      "source_url": "https://oceanm19.com/",
+      "page_kind": "portfolio_or_home",
+      "is_recent": false,
+      "counts_as_firm_deal": false
+    },
+    {
+      "headline": "Manufacturer of premium frozen pasta products sold through foodservice and retail",
+      "date": "2019-10-01",
+      "source_url": "https://oceanm19.com/",
+      "page_kind": "portfolio_or_home",
+      "is_recent": false,
+      "counts_as_firm_deal": false
+    }
+  ],
+  "most_recent_dated_fact": {
+    "headline": "Acquired Dec 1992 (2013 Exit)",
+    "date": "2020-09-01",
+    "source_url": "https://oceanm19.com/",
+    "page_kind": "portfolio_or_home",
+    "is_recent": false,
+    "counts_as_firm_deal": false
+  },
+  "stated_size_criteria": [
+    {
+      "kind": "ebitda",
+      "lo_m": 10.0,
+      "hi_m": 100.0,
+      "sentence": "19 typically seeks controlling investments in businesses with $10 to $100 million in revenue and EBITDA ranging from $2 to $10 million. We prefer to align our interests with management to further the growth of companies with: significant barriers to entry, a diversified customer base, stable and recurring cash flow and high operating leverage.",
+      "source_url": "https://oceanm19.com/"
+    },
+    {
+      "kind": "ebitda",
+      "lo_m": 2.0,
+      "hi_m": 10.0,
+      "sentence": "19 typically seeks controlling investments in businesses with $10 to $100 million in revenue and EBITDA ranging from $2 to $10 million. We prefer to align our interests with management to further the growth of companies with: significant barriers to entry, a diversified customer base, stable and recurring cash flow and high operating leverage.",
+      "source_url": "https://oceanm19.com/"
+    },
+    {
+      "kind": "revenue",
+      "lo_m": 10.0,
+      "hi_m": 100.0,
+      "sentence": "19 typically seeks controlling investments in businesses with $10 to $100 million in revenue and EBITDA ranging from $2 to $10 million. We prefer to align our interests with management to further the growth of companies with: significant barriers to entry, a diversified customer base, stable and recurring cash flow and high operating leverage.",
+      "source_url": "https://oceanm19.com/"
+    },
+    {
+      "kind": "revenue",
+      "lo_m": 2.0,
+      "hi_m": 10.0,
+      "sentence": "19 typically seeks controlling investments in businesses with $10 to $100 million in revenue and EBITDA ranging from $2 to $10 million. We prefer to align our interests with management to further the growth of companies with: significant barriers to entry, a diversified customer base, stable and recurring cash flow and high operating leverage.",
+      "source_url": "https://oceanm19.com/"
+    }
+  ],
+  "team_size_visible": {
+    "count": 10,
+    "basis": "10 people with titles found on https://oceanm19.com/",
+    "source_url": "https://oceanm19.com/",
+    "flags": [
+      "10_plus_people"
+    ],
+    "titles_seen": [
+      "Chief Financial Officer",
+      "Chief Investment Officer",
+      "Co-Founder",
+      "Controller",
+      "Director of Ventas, Inc",
+      "Executive Assistant",
+      "Office Assistant",
+      "Partner in Private Equity"
+    ]
+  },
+  "has_operating_partner": null,
+  "focus_west_or_california": null,
+  "direct_investing_evidence": {
+    "statement": "19”) is a Chicagoland-based, single-family investment office that has concentrated allocations to direct private equity investments, hedge funds, venture capital and real estate.",
+    "source_url": "https://oceanm19.com/"
+  },
+  "sector_statement": {
+    "statement": "We focus on sectors including niche manufacturing, tech-enabled business services and food and ingredients.",
+    "source_url": "https://oceanm19.com/"
+  },
+  "decision_maker": {
+    "name": "Dan Martino",
+    "title": "Chief Investment Officer",
+    "source_url": "https://oceanm19.com/",
+    "selection_rule": "chief investment officer",
+    "in_contact_list": true,
+    "email": "dan@oceanm19.com"
+  },
+  "contacts_in_our_list_at_firm": 2,
+  "gaps": [
+    "No thesis sentence found on pages read"
+  ]
+}

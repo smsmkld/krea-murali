@@ -1,0 +1,66 @@
+{
+  "firm_id": "S13",
+  "firm": "TWG Capital",
+  "category": "independent_sponsor",
+  "source_sheet": "IS directory sheet",
+  "enriched_on": "2026-11-19",
+  "recent_cutoff": "2025-05-19",
+  "site_status": "ok",
+  "pages_read": [
+    "https://twgcap.com/"
+  ],
+  "stated_thesis": null,
+  "dated_facts": [],
+  "most_recent_dated_fact": null,
+  "stated_size_criteria": [
+    {
+      "kind": "revenue",
+      "lo_m": 10.0,
+      "hi_m": 100.0,
+      "sentence": "Revenues of $10 million-$100 million",
+      "source_url": "https://twgcap.com/"
+    }
+  ],
+  "team_size_visible": {
+    "count": 5,
+    "basis": "5 people with titles found on https://twgcap.com/",
+    "source_url": "https://twgcap.com/",
+    "flags": [],
+    "titles_seen": [
+      "Director",
+      "Managing Director",
+      "Managing Partner"
+    ]
+  },
+  "has_operating_partner": {
+    "value": true,
+    "evidence": "TWG Capital was established in 2025 to leverage the capabilities of The Wyse Group, a trusted advisor and operating partner to lower middle market businesses, private equity firms and lenders.",
+    "source_url": "https://twgcap.com/"
+  },
+  "focus_west_or_california": null,
+  "direct_investing_evidence": null,
+  "sector_statement": null,
+  "decision_maker": {
+    "name": "Mike Wyse",
+    "title": "Managing Partner",
+    "source_url": "https://twgcap.com/",
+    "selection_rule": "managing partner",
+    "in_contact_list": false,
+    "email": "needs lookup"
+  },
+  "contacts_in_our_list_at_firm": 0,
+  "gaps": [
+    "No thesis sentence found on pages read"
+  ],
+  "directory_listing": {
+    "source_url": "https://twgcap.com/",
+    "date_checked": "2026-10-26",
+    "ebitda_min_m": "1",
+    "ebitda_max_m": NaN,
+    "revenue_min_m": "10",
+    "revenue_max_m": "100",
+    "geography": "U.S. based",
+    "sectors": "Generalist",
+    "self_description": "An independent sponsor backed by an integrated team of experienced investors, operators and advisors"
+  }
+}

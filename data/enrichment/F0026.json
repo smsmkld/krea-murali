@@ -25,5 +25,18 @@
     "No deals or portfolio listed on site; web search found no announcements",
     "Geography stated only as \"Headquarters in the United States\""
   ],
-  "direct_investing_evidence_note": "Not applicable: not typed as a family office"
+  "direct_investing_evidence_note": "Not applicable: not typed as a family office",
+  "site_status": "ok",
+  "dated_facts": [],
+  "stated_size_criteria": [],
+  "sector_statement": {
+    "statement": "Operationally focused firm that invests in fragmented industries and underperforming industrial, manufacturing, and services businesses to immediately transform operations and drive great results.",
+    "source_url": "https://www.agonicpartners.com/"
+  },
+  "decision_maker": null,
+  "contacts_in_our_list_at_firm": 1,
+  "team_flags": [],
+  "team_titles_seen": [
+    "Partners champions transformative growth, reshaping business"
+  ]
 }

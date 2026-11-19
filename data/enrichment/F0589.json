@@ -1,0 +1,52 @@
+{
+  "firm_id": "F0589",
+  "firm": "Ozinga Ventures",
+  "category": "family_office",
+  "source_sheet": "leads-classified",
+  "enriched_on": "2026-11-19",
+  "recent_cutoff": "2025-05-19",
+  "site_status": "ok",
+  "pages_read": [
+    "https://ozingaventures.com/",
+    "https://ozingaventures.com/team/",
+    "https://ozingaventures.com/current-investments/",
+    "https://ozingaventures.com/news/",
+    "https://ozingaventures.com/about/"
+  ],
+  "stated_thesis": null,
+  "dated_facts": [],
+  "most_recent_dated_fact": null,
+  "stated_size_criteria": [],
+  "team_size_visible": {
+    "count": 6,
+    "basis": "6 people with titles found on https://ozingaventures.com/team/",
+    "source_url": "https://ozingaventures.com/team/",
+    "flags": [
+      "associates_or_analysts"
+    ],
+    "titles_seen": [
+      "ASSOCIATE",
+      "MANAGING DIRECTOR",
+      "PRESIDENT"
+    ]
+  },
+  "has_operating_partner": null,
+  "focus_west_or_california": null,
+  "direct_investing_evidence": null,
+  "sector_statement": {
+    "statement": "The Ozinga Family has served the industrial community for more than 90 years, starting as a coal yard in 1928 and growing to a national brand with more than 2500 employees throughout the United States.",
+    "source_url": "https://ozingaventures.com/about/"
+  },
+  "decision_maker": {
+    "name": "Josh Bailey",
+    "title": "MANAGING DIRECTOR",
+    "source_url": "https://ozingaventures.com/team/",
+    "selection_rule": "managing director",
+    "in_contact_list": true,
+    "email": "joshbailey@ozingaventures.com"
+  },
+  "contacts_in_our_list_at_firm": 2,
+  "gaps": [
+    "No thesis sentence found on pages read"
+  ]
+}

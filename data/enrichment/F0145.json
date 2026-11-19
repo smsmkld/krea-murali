@@ -30,5 +30,13 @@
   "gaps": [
     "No portfolio or deals page; no dated news",
     "Geographic focus not stated (invests \"across all industries and geographies\")"
-  ]
+  ],
+  "site_status": "ok",
+  "dated_facts": [],
+  "stated_size_criteria": [],
+  "sector_statement": null,
+  "decision_maker": null,
+  "contacts_in_our_list_at_firm": 1,
+  "team_flags": [],
+  "team_titles_seen": []
 }

@@ -1,0 +1,59 @@
+{
+  "firm_id": "F0595",
+  "firm": "Parabellum Investments",
+  "category": "family_office",
+  "source_sheet": "leads-classified",
+  "enriched_on": "2026-11-19",
+  "recent_cutoff": "2025-05-19",
+  "site_status": "ok",
+  "pages_read": [
+    "https://www.parabelluminvestments.com/",
+    "https://www.parabelluminvestments.com/news/",
+    "https://www.parabelluminvestments.com/about/",
+    "https://www.parabelluminvestments.com/about/rami-cassis/",
+    "https://www.parabelluminvestments.com/news/in-the-media-forecasting-and-fitness-to-lead/",
+    "https://www.parabelluminvestments.com/news/in-the-media-the-truth-lives-closest-to-the-customer/",
+    "https://www.parabelluminvestments.com/news/in-the-media-the-brutal-truth-about-why-most-ceos-fail/",
+    "https://www.parabelluminvestments.com/news/in-the-media-australia-is-the-sleeping-giant-of-mid-market-ma/",
+    "https://www.parabelluminvestments.com/news/in-the-media-why-forecasting-is-the-true-measure-of-any-ceos-quality/",
+    "https://www.parabelluminvestments.com/news/in-the-media-ceos-must-ai-proof-their-businesses-or-risk-failed-exits/",
+    "https://www.parabelluminvestments.com/news/in-the-media-paragon-buys-majority-stake-in-south-yorkshire-firm-parseq/",
+    "https://www.parabelluminvestments.com/news/in-the-media-australian-mid-market-ma-will-boom-amid-limp-us-and-eu-exits/"
+  ],
+  "stated_thesis": null,
+  "dated_facts": [],
+  "most_recent_dated_fact": null,
+  "stated_size_criteria": [
+    {
+      "kind": "revenue",
+      "lo_m": 5.0,
+      "hi_m": 150.0,
+      "sentence": "Rami Cassis has proven success growing companies ranging in size from $5m to $150m in revenue, leading transactions including reverse takeovers / IPOs and take-privates.",
+      "source_url": "https://www.parabelluminvestments.com/about/"
+    }
+  ],
+  "team_size_visible": {
+    "count": 3,
+    "basis": "3 people with titles found on https://www.parabelluminvestments.com/about/",
+    "source_url": "https://www.parabelluminvestments.com/about/",
+    "flags": [],
+    "titles_seen": [
+      "CFO",
+      "Director of M&A",
+      "Principal"
+    ]
+  },
+  "has_operating_partner": null,
+  "focus_west_or_california": null,
+  "direct_investing_evidence": {
+    "statement": "We mainly deploy our own funds to acquire controlling stakes in operating companies.",
+    "source_url": "https://www.parabelluminvestments.com/about/"
+  },
+  "sector_statement": null,
+  "decision_maker": null,
+  "contacts_in_our_list_at_firm": 1,
+  "gaps": [
+    "No thesis sentence found on pages read",
+    "No decision-maker with a matching title found on the site"
+  ]
+}

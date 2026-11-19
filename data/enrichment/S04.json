@@ -1,0 +1,48 @@
+{
+  "firm_id": "S04",
+  "firm": "D.K. Smith & Co.",
+  "category": "independent_sponsor",
+  "source_sheet": "IS directory sheet",
+  "enriched_on": "2026-11-19",
+  "recent_cutoff": "2025-05-19",
+  "site_status": "ok",
+  "pages_read": [
+    "https://www.dksmithandco.com/",
+    "https://www.dksmithandco.com/about"
+  ],
+  "stated_thesis": null,
+  "dated_facts": [],
+  "most_recent_dated_fact": null,
+  "stated_size_criteria": [
+    {
+      "kind": "ebitda",
+      "lo_m": 2.0,
+      "hi_m": 15.0,
+      "sentence": "We focus on making control acquisitions and partnering with management teams to grow lower middle market companies. We target platform investments with $2-$15 million in EBITDA, but will consider any size company for bolt-on acquisitions.",
+      "source_url": "https://www.dksmithandco.com/"
+    }
+  ],
+  "team_size_visible": null,
+  "has_operating_partner": null,
+  "focus_west_or_california": null,
+  "direct_investing_evidence": null,
+  "sector_statement": null,
+  "decision_maker": null,
+  "contacts_in_our_list_at_firm": 0,
+  "gaps": [
+    "No thesis sentence found on pages read",
+    "No team page with names and titles found",
+    "No decision-maker with a matching title found on the site"
+  ],
+  "directory_listing": {
+    "source_url": "https://dksmithandco.com/",
+    "date_checked": "2026-10-26",
+    "ebitda_min_m": "2",
+    "ebitda_max_m": "15",
+    "revenue_min_m": NaN,
+    "revenue_max_m": NaN,
+    "geography": NaN,
+    "sectors": "Business services; Software & technology; Industrial & manufacturing; Consumer",
+    "self_description": "PRIVATE EQUITY INDEPENDENT SPONSOR & ADVISORY FIRM"
+  }
+}

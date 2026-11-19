@@ -1,0 +1,132 @@
+{
+  "firm_id": "F0411",
+  "firm": "JMC Family Office",
+  "category": "family_office",
+  "source_sheet": "leads-classified",
+  "enriched_on": "2026-11-19",
+  "recent_cutoff": "2025-05-19",
+  "site_status": "ok",
+  "pages_read": [
+    "https://www.jmcfamilyoffice.com/",
+    "https://www.jmcfamilyoffice.com/our-team",
+    "https://www.jmcfamilyoffice.com/jmc-portfolio",
+    "https://www.jmcfamilyoffice.com/news",
+    "https://www.jmcfamilyoffice.com/our-team",
+    "https://www.jmcfamilyoffice.com/direct-investment",
+    "https://www.jmcfamilyoffice.com/investment-philosophy"
+  ],
+  "stated_thesis": null,
+  "dated_facts": [
+    {
+      "headline": "JMC Investment Announces Sale of Millrock Technology to Artemis",
+      "date": "2025-10-08",
+      "source_url": "https://www.jmcfamilyoffice.com/news",
+      "page_kind": "firm_news",
+      "is_recent": true,
+      "counts_as_firm_deal": true
+    },
+    {
+      "headline": "JMC Investment Sells Ownership of Keosys SAS",
+      "date": "2024-07-01",
+      "source_url": "https://www.jmcfamilyoffice.com/news",
+      "page_kind": "firm_news",
+      "is_recent": false,
+      "counts_as_firm_deal": true
+    },
+    {
+      "headline": "New York, NY () — JMC Investment LLC (JMC Investment) is pleased to announce that it has sold its ownership of Keosys SAS (“Keosys” or the “Company”) to Banook Group (“Banook”).",
+      "date": "2024-07-01",
+      "source_url": "https://www.jmcfamilyoffice.com/news",
+      "page_kind": "firm_news",
+      "is_recent": false,
+      "counts_as_firm_deal": true
+    },
+    {
+      "headline": "JMC Investment Sells Majority Stake in JTI Electrical & Instrumentation",
+      "date": "2022-09-01",
+      "source_url": "https://www.jmcfamilyoffice.com/news",
+      "page_kind": "firm_news",
+      "is_recent": false,
+      "counts_as_firm_deal": true
+    },
+    {
+      "headline": "JMC Venture Makes an Investment in Advanced Track & Trace",
+      "date": "2021-07-20",
+      "source_url": "https://www.jmcfamilyoffice.com/news",
+      "page_kind": "firm_news",
+      "is_recent": false,
+      "counts_as_firm_deal": true
+    },
+    {
+      "headline": "JMC Makes investment in SANS",
+      "date": "2021-03-09",
+      "source_url": "https://www.jmcfamilyoffice.com/news",
+      "page_kind": "firm_news",
+      "is_recent": false,
+      "counts_as_firm_deal": true
+    },
+    {
+      "headline": "JMC Makes Investment in Spintech",
+      "date": "2020-11-11",
+      "source_url": "https://www.jmcfamilyoffice.com/news",
+      "page_kind": "firm_news",
+      "is_recent": false,
+      "counts_as_firm_deal": true
+    },
+    {
+      "headline": "JMC Investment Invests in Millrock Technology",
+      "date": "2020-01-01",
+      "source_url": "https://www.jmcfamilyoffice.com/news",
+      "page_kind": "firm_news",
+      "is_recent": false,
+      "counts_as_firm_deal": true
+    }
+  ],
+  "most_recent_dated_fact": {
+    "headline": "JMC Investment Announces Sale of Millrock Technology to Artemis",
+    "date": "2025-10-08",
+    "source_url": "https://www.jmcfamilyoffice.com/news",
+    "page_kind": "firm_news",
+    "is_recent": true,
+    "counts_as_firm_deal": true
+  },
+  "stated_size_criteria": [],
+  "team_size_visible": {
+    "count": 7,
+    "basis": "7 people with titles found on https://www.jmcfamilyoffice.com/our-team",
+    "source_url": "https://www.jmcfamilyoffice.com/our-team",
+    "flags": [
+      "associates_or_analysts"
+    ],
+    "titles_seen": [
+      "Analyst",
+      "CEO & Founder",
+      "Controller",
+      "Director, Foundation",
+      "Managing Director",
+      "Vice President"
+    ]
+  },
+  "has_operating_partner": null,
+  "focus_west_or_california": null,
+  "direct_investing_evidence": {
+    "statement": "A single family office committed to building lasting growth through direct investment in operating companies and support of mission-driven nonprofits.",
+    "source_url": "https://www.jmcfamilyoffice.com/"
+  },
+  "sector_statement": {
+    "statement": "Designs and manufactures engineered mechanical products for industrial OEMs",
+    "source_url": "https://www.jmcfamilyoffice.com/jmc-portfolio"
+  },
+  "decision_maker": {
+    "name": "Tom Sadusky",
+    "title": "Managing Director",
+    "source_url": "https://www.jmcfamilyoffice.com/our-team",
+    "selection_rule": "managing director",
+    "in_contact_list": false,
+    "email": "needs lookup"
+  },
+  "contacts_in_our_list_at_firm": 1,
+  "gaps": [
+    "No thesis sentence found on pages read"
+  ]
+}

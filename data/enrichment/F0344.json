@@ -1,0 +1,144 @@
+{
+  "firm_id": "F0344",
+  "firm": "HarborWind Partners",
+  "category": "independent_sponsor",
+  "source_sheet": "leads-classified",
+  "enriched_on": "2026-11-19",
+  "recent_cutoff": "2025-05-19",
+  "site_status": "ok",
+  "pages_read": [
+    "https://harborwind.com/",
+    "https://harborwind.com/team",
+    "https://harborwind.com/portfolio",
+    "https://harborwind.com/news",
+    "https://harborwind.com/insights",
+    "https://harborwind.com/insights/niche-manufacturing-ma-2026",
+    "https://harborwind.com/insights/specialty-chemicals-ma-2026",
+    "https://harborwind.com/insights/industrial-services-ma-2026",
+    "https://harborwind.com/insights/why-we-buy-founder-led-industrial-businesses",
+    "https://harborwind.com/insights/founders-guide-selling-manufacturing-business",
+    "https://harborwind.com/investment-criteria",
+    "https://harborwind.com/about"
+  ],
+  "stated_thesis": null,
+  "dated_facts": [],
+  "most_recent_dated_fact": null,
+  "stated_size_criteria": [
+    {
+      "kind": "ebitda",
+      "lo_m": 2.0,
+      "hi_m": 8.0,
+      "sentence": "Founder-led businesses generating $2M–$8M EBITDA in niche manufacturing, specialty chemicals, and industrial and essential B2B services.",
+      "source_url": "https://harborwind.com/"
+    },
+    {
+      "kind": "ebitda",
+      "lo_m": 2.0,
+      "hi_m": 8.0,
+      "sentence": "We are evaluating founder-led industrial businesses with $2M–$8M in EBITDA, and two principals who make every decision. We buy good companies and modernize them, because modernization is our thesis.",
+      "source_url": "https://harborwind.com/portfolio"
+    },
+    {
+      "kind": "ebitda",
+      "lo_m": 2.0,
+      "hi_m": 8.0,
+      "sentence": "Investment criteria set at $2M to $8M of EBITDA",
+      "source_url": "https://harborwind.com/news"
+    },
+    {
+      "kind": "ebitda",
+      "lo_m": 2.0,
+      "hi_m": 8.0,
+      "sentence": "We set our acquisition range at $2M to $8M of EBITDA. EBITDA is a company's annual operating profit before interest, taxes, and non-cash charges.",
+      "source_url": "https://harborwind.com/news"
+    },
+    {
+      "kind": "ebitda",
+      "lo_m": 2.0,
+      "hi_m": 8.0,
+      "sentence": "We acquire founder-led businesses generating $2M–$8M EBITDA in the sectors we know.",
+      "source_url": "https://harborwind.com/insights/niche-manufacturing-ma-2026"
+    },
+    {
+      "kind": "ebitda",
+      "lo_m": 2.0,
+      "hi_m": 8.0,
+      "sentence": "We acquire founder-led businesses generating $2M–$8M EBITDA in the sectors we know.",
+      "source_url": "https://harborwind.com/insights/specialty-chemicals-ma-2026"
+    },
+    {
+      "kind": "ebitda",
+      "lo_m": 2.0,
+      "hi_m": 8.0,
+      "sentence": "We acquire founder-led businesses generating $2M–$8M EBITDA in the sectors we know.",
+      "source_url": "https://harborwind.com/insights/industrial-services-ma-2026"
+    },
+    {
+      "kind": "ebitda",
+      "lo_m": 2.0,
+      "hi_m": 8.0,
+      "sentence": "We acquire founder-led businesses generating $2M–$8M EBITDA in the sectors we know.",
+      "source_url": "https://harborwind.com/insights/why-we-buy-founder-led-industrial-businesses"
+    },
+    {
+      "kind": "ebitda",
+      "lo_m": 2.0,
+      "hi_m": 8.0,
+      "sentence": "$2M–$8M in EBITDA",
+      "source_url": "https://harborwind.com/insights/why-we-buy-founder-led-industrial-businesses"
+    },
+    {
+      "kind": "ebitda",
+      "lo_m": 2.0,
+      "hi_m": 8.0,
+      "sentence": "We acquire founder-led businesses generating $2M–$8M EBITDA in the sectors we know.",
+      "source_url": "https://harborwind.com/insights/founders-guide-selling-manufacturing-business"
+    },
+    {
+      "kind": "ebitda",
+      "lo_m": 2.0,
+      "hi_m": 8.0,
+      "sentence": "$2M–$8M EBITDA. Revenue Above $10M. 15% to 25%+ margin.",
+      "source_url": "https://harborwind.com/investment-criteria"
+    },
+    {
+      "kind": "revenue",
+      "lo_m": 2.0,
+      "hi_m": 8.0,
+      "sentence": "$2M–$8M EBITDA. Revenue Above $10M. 15% to 25%+ margin.",
+      "source_url": "https://harborwind.com/investment-criteria"
+    }
+  ],
+  "team_size_visible": {
+    "count": 2,
+    "basis": "2 people with titles found on https://harborwind.com/team",
+    "source_url": "https://harborwind.com/team",
+    "flags": [],
+    "titles_seen": [
+      "Managing Partner"
+    ]
+  },
+  "has_operating_partner": null,
+  "focus_west_or_california": {
+    "value": false,
+    "evidence": "We invest in U.S. companies, with a preference for the Midwest and the Eastern United States.",
+    "source_url": "https://harborwind.com/investment-criteria"
+  },
+  "direct_investing_evidence": null,
+  "sector_statement": {
+    "statement": "Founder-led businesses generating $2M–$8M EBITDA in niche manufacturing, specialty chemicals, and industrial and essential B2B services.",
+    "source_url": "https://harborwind.com/"
+  },
+  "decision_maker": {
+    "name": "Rocky Lopez",
+    "title": "Managing Partner",
+    "source_url": "https://harborwind.com/team",
+    "selection_rule": "managing partner",
+    "in_contact_list": true,
+    "email": "rlopez@harborwind.com"
+  },
+  "contacts_in_our_list_at_firm": 1,
+  "gaps": [
+    "No thesis sentence found on pages read"
+  ]
+}

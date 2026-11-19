@@ -1,0 +1,98 @@
+{
+  "firm_id": "S11",
+  "firm": "Signal Rock Capital",
+  "category": "independent_sponsor",
+  "source_sheet": "IS directory sheet",
+  "enriched_on": "2026-11-19",
+  "recent_cutoff": "2025-05-19",
+  "site_status": "ok",
+  "pages_read": [
+    "https://www.signalrockcap.com/"
+  ],
+  "stated_thesis": null,
+  "dated_facts": [],
+  "most_recent_dated_fact": null,
+  "stated_size_criteria": [
+    {
+      "kind": "ebitda",
+      "lo_m": 1.0,
+      "hi_m": 5.0,
+      "sentence": "Signal Rock Capital is an independent sponsor investment firm that targets B2B industrial, infrastructure, and consumer service businesses with EBITDA of $1.0 to $5.0 million.",
+      "source_url": "https://www.signalrockcap.com/"
+    },
+    {
+      "kind": "ebitda",
+      "lo_m": 1.0,
+      "hi_m": 5.0,
+      "sentence": "EBITDA: $1.0 million to $5.0 million",
+      "source_url": "https://www.signalrockcap.com/"
+    },
+    {
+      "kind": "ebitda",
+      "lo_m": 2.0,
+      "hi_m": 30.0,
+      "sentence": "Based in West Palm Beach, Florida, Signal Rock targets control investments in businesses with $2 million to $30 million in revenue and $1 million to $5 million in EBITDA.",
+      "source_url": "https://www.signalrockcap.com/"
+    },
+    {
+      "kind": "ebitda",
+      "lo_m": 1.0,
+      "hi_m": 5.0,
+      "sentence": "Based in West Palm Beach, Florida, Signal Rock targets control investments in businesses with $2 million to $30 million in revenue and $1 million to $5 million in EBITDA.",
+      "source_url": "https://www.signalrockcap.com/"
+    },
+    {
+      "kind": "revenue",
+      "lo_m": 2.0,
+      "hi_m": 30.0,
+      "sentence": "Based in West Palm Beach, Florida, Signal Rock targets control investments in businesses with $2 million to $30 million in revenue and $1 million to $5 million in EBITDA.",
+      "source_url": "https://www.signalrockcap.com/"
+    },
+    {
+      "kind": "revenue",
+      "lo_m": 1.0,
+      "hi_m": 5.0,
+      "sentence": "Based in West Palm Beach, Florida, Signal Rock targets control investments in businesses with $2 million to $30 million in revenue and $1 million to $5 million in EBITDA.",
+      "source_url": "https://www.signalrockcap.com/"
+    }
+  ],
+  "team_size_visible": {
+    "count": 2,
+    "basis": "2 people with titles found on https://www.signalrockcap.com/",
+    "source_url": "https://www.signalrockcap.com/",
+    "flags": [],
+    "titles_seen": [
+      "Founder and Managing Partner"
+    ]
+  },
+  "has_operating_partner": null,
+  "focus_west_or_california": null,
+  "direct_investing_evidence": null,
+  "sector_statement": {
+    "statement": "Signal Rock Capital is an independent sponsor investment firm that targets B2B industrial, infrastructure, and consumer service businesses with EBITDA of $1.0 to $5.0 million.",
+    "source_url": "https://www.signalrockcap.com/"
+  },
+  "decision_maker": {
+    "name": "Sam Hafermann",
+    "title": "Founder and Managing Partner",
+    "source_url": "https://www.signalrockcap.com/",
+    "selection_rule": "managing partner",
+    "in_contact_list": false,
+    "email": "needs lookup"
+  },
+  "contacts_in_our_list_at_firm": 0,
+  "gaps": [
+    "No thesis sentence found on pages read"
+  ],
+  "directory_listing": {
+    "source_url": "https://www.signalrockcap.com/",
+    "date_checked": "2026-10-26",
+    "ebitda_min_m": "1",
+    "ebitda_max_m": "5",
+    "revenue_min_m": NaN,
+    "revenue_max_m": NaN,
+    "geography": NaN,
+    "sectors": "Business services; Industrial & manufacturing; Consumer",
+    "self_description": "an independent sponsor investment firm"
+  }
+}

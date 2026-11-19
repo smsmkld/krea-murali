@@ -1,0 +1,53 @@
+{
+  "firm_id": "S02",
+  "firm": "Clove Capital",
+  "category": "independent_sponsor",
+  "source_sheet": "IS directory sheet",
+  "enriched_on": "2026-11-19",
+  "recent_cutoff": "2025-05-19",
+  "site_status": "ok",
+  "pages_read": [
+    "https://clove-cap.com/"
+  ],
+  "stated_thesis": null,
+  "dated_facts": [],
+  "most_recent_dated_fact": null,
+  "stated_size_criteria": [],
+  "team_size_visible": {
+    "count": 4,
+    "basis": "4 people with titles found on https://clove-cap.com/",
+    "source_url": "https://clove-cap.com/",
+    "flags": [],
+    "titles_seen": [
+      "Co-Founder & Managing Partner",
+      "founders who seek to remain involved post-close and care as "
+    ]
+  },
+  "has_operating_partner": null,
+  "focus_west_or_california": null,
+  "direct_investing_evidence": null,
+  "sector_statement": null,
+  "decision_maker": {
+    "name": "AJAY SHIMOGA",
+    "title": "Co-Founder & Managing Partner",
+    "source_url": "https://clove-cap.com/",
+    "selection_rule": "managing partner",
+    "in_contact_list": false,
+    "email": "needs lookup"
+  },
+  "contacts_in_our_list_at_firm": 0,
+  "gaps": [
+    "No thesis sentence found on pages read"
+  ],
+  "directory_listing": {
+    "source_url": "https://clove-cap.com/",
+    "date_checked": "2026-10-26",
+    "ebitda_min_m": "1",
+    "ebitda_max_m": "10",
+    "revenue_min_m": "10",
+    "revenue_max_m": NaN,
+    "geography": NaN,
+    "sectors": "Healthcare",
+    "self_description": "\"Clove Capital is an independent sponsor founded by three healthcare services investor-operators\""
+  }
+}

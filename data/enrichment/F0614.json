@@ -1,0 +1,48 @@
+{
+  "firm_id": "F0614",
+  "firm": "Pinnacle Private Ventures",
+  "category": "family_office",
+  "source_sheet": "leads-classified",
+  "enriched_on": "2026-11-19",
+  "recent_cutoff": "2025-05-19",
+  "site_status": "ok",
+  "pages_read": [
+    "https://www.pinnacle-pv.com/",
+    "https://www.pinnacle-pv.com/what-we-do"
+  ],
+  "stated_thesis": null,
+  "dated_facts": [],
+  "most_recent_dated_fact": null,
+  "stated_size_criteria": [],
+  "team_size_visible": {
+    "count": 5,
+    "basis": "5 people with titles found on https://www.pinnacle-pv.com/",
+    "source_url": "https://www.pinnacle-pv.com/",
+    "flags": [],
+    "titles_seen": [
+      "Accredited & Qualified Investors",
+      "Founder",
+      "Managing Director",
+      "The power of the right partner"
+    ]
+  },
+  "has_operating_partner": null,
+  "focus_west_or_california": null,
+  "direct_investing_evidence": null,
+  "sector_statement": {
+    "statement": "Darin brings more than 30 years of experience in asset management and investment distribution.",
+    "source_url": "https://www.pinnacle-pv.com/"
+  },
+  "decision_maker": {
+    "name": "Darin Pritchett",
+    "title": "Managing Director",
+    "source_url": "https://www.pinnacle-pv.com/",
+    "selection_rule": "managing director",
+    "in_contact_list": true,
+    "email": "darin@pvpinnacle.com"
+  },
+  "contacts_in_our_list_at_firm": 2,
+  "gaps": [
+    "No thesis sentence found on pages read"
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "firm_id": "F0228",
+  "firm": "DNS Capital",
+  "category": "family_office",
+  "source_sheet": "leads-classified",
+  "enriched_on": "2026-11-19",
+  "recent_cutoff": "2025-05-19",
+  "site_status": "ok",
+  "pages_read": [
+    "https://www.dnscap.com/",
+    "https://www.dnscap.com/team/",
+    "https://www.dnscap.com/investments/",
+    "https://www.dnscap.com/news/",
+    "https://www.dnscap.com/approach/",
+    "https://www.dnscap.com/about/",
+    "https://www.dnscap.com/about/"
+  ],
+  "stated_thesis": null,
+  "dated_facts": [],
+  "most_recent_dated_fact": null,
+  "stated_size_criteria": [
+    {
+      "kind": "ebitda",
+      "lo_m": 10.0,
+      "hi_m": 50.0,
+      "sentence": "We target market-leading (middle-market) companies with $10M-$50M of EBITDA. Our typical initial equity investment is $25M–$100M, with the ability to invest more over time.",
+      "source_url": "https://www.dnscap.com/investments/"
+    },
+    {
+      "kind": "ebitda",
+      "lo_m": 25.0,
+      "hi_m": 100.0,
+      "sentence": "We target market-leading (middle-market) companies with $10M-$50M of EBITDA. Our typical initial equity investment is $25M–$100M, with the ability to invest more over time.",
+      "source_url": "https://www.dnscap.com/investments/"
+    }
+  ],
+  "team_size_visible": {
+    "count": 18,
+    "basis": "18 people with titles found on https://www.dnscap.com/team/",
+    "source_url": "https://www.dnscap.com/team/",
+    "flags": [
+      "associates_or_analysts",
+      "10_plus_people"
+    ],
+    "titles_seen": [
+      "Associate",
+      "Associate, 2017-2019",
+      "Chairman & CEO",
+      "Chief Operating Officer",
+      "Director of Executive Support",
+      "Director of GSD",
+      "Executive Assistant / Office Facilities Manager",
+      "Executive Assistant / Office Facilities Manager Learn more",
+      "Managing Director",
+      "Operating Partner",
+      "Partners",
+      "Principal",
+      "Principal DNS family member since",
+      "Private Equity Analyst in Principal Investment Area, 2011–20",
+      "Senior Associate",
+      "Senior Counsel",
+      "Vice President"
+    ]
+  },
+  "has_operating_partner": {
+    "value": true,
+    "evidence": "Team page lists the title \"Operating Partner\"",
+    "source_url": "https://www.dnscap.com/team/"
+  },
+  "focus_west_or_california": null,
+  "direct_investing_evidence": null,
+  "sector_statement": {
+    "statement": "The 81 Collection is a Chicago based, early stage venture capital firm investing in founders building across capital intensive “hard industries” like manufacturing, real estate, retail, and construction.",
+    "source_url": "https://www.dnscap.com/investments/"
+  },
+  "decision_maker": {
+    "name": "Jason Schroeder",
+    "title": "Managing Director",
+    "source_url": "https://www.dnscap.com/team/",
+    "selection_rule": "managing director",
+    "in_contact_list": true,
+    "email": "jschroeder@dnscap.com"
+  },
+  "contacts_in_our_list_at_firm": 2,
+  "gaps": [
+    "No thesis sentence found on pages read"
+  ]
+}

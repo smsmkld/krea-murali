@@ -1,0 +1,43 @@
+{
+  "firm_id": "F0789",
+  "firm": "Thompson Family Office",
+  "category": "family_office",
+  "source_sheet": "leads-classified",
+  "enriched_on": "2026-11-19",
+  "recent_cutoff": "2025-05-19",
+  "site_status": "ok",
+  "pages_read": [
+    "https://thompsonfamilyoffice.com/",
+    "https://thompsonfamilyoffice.com/index.html"
+  ],
+  "stated_thesis": null,
+  "dated_facts": [],
+  "most_recent_dated_fact": null,
+  "stated_size_criteria": [],
+  "team_size_visible": {
+    "count": 7,
+    "basis": "7 people with titles found on https://thompsonfamilyoffice.com/",
+    "source_url": "https://thompsonfamilyoffice.com/",
+    "flags": [],
+    "titles_seen": [
+      "Global Advisor",
+      "Global Advisory Team",
+      "Managing Partner",
+      "Middle East Advisor",
+      "Partner"
+    ]
+  },
+  "has_operating_partner": null,
+  "focus_west_or_california": null,
+  "direct_investing_evidence": null,
+  "sector_statement": {
+    "statement": "Thompson Family Office is a Virginia-based family office with a 40-year track record of investing across a wide range of industries, including telecommunications, television production, manufacturing, retail, services, and real estate.",
+    "source_url": "https://thompsonfamilyoffice.com/"
+  },
+  "decision_maker": null,
+  "contacts_in_our_list_at_firm": 2,
+  "gaps": [
+    "No thesis sentence found on pages read",
+    "No decision-maker with a matching title found on the site"
+  ]
+}

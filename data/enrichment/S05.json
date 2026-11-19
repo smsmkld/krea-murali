@@ -1,0 +1,66 @@
+{
+  "firm_id": "S05",
+  "firm": "DMD Capital Group",
+  "category": "independent_sponsor",
+  "source_sheet": "IS directory sheet",
+  "enriched_on": "2026-11-19",
+  "recent_cutoff": "2025-05-19",
+  "site_status": "ok",
+  "pages_read": [
+    "https://dmdcapitalgroup.com/",
+    "https://dmdcapitalgroup.com/team/",
+    "https://dmdcapitalgroup.com/team/"
+  ],
+  "stated_thesis": null,
+  "dated_facts": [],
+  "most_recent_dated_fact": null,
+  "stated_size_criteria": [
+    {
+      "kind": "ebitda",
+      "lo_m": 2.0,
+      "hi_m": 8.0,
+      "sentence": "$2M–8M of EBITDA, with a preference for profitable, established businesses with recurring or durable demand.",
+      "source_url": "https://dmdcapitalgroup.com/"
+    }
+  ],
+  "team_size_visible": {
+    "count": 1,
+    "basis": "1 people with titles found on https://dmdcapitalgroup.com/team/",
+    "source_url": "https://dmdcapitalgroup.com/team/",
+    "flags": [],
+    "titles_seen": [
+      "Managing Partner"
+    ]
+  },
+  "has_operating_partner": {
+    "value": true,
+    "evidence": "David Madukauwa-David and supported by a curated network of operating partners, executive advisors, and functional specialists.",
+    "source_url": "https://dmdcapitalgroup.com/team/"
+  },
+  "focus_west_or_california": null,
+  "direct_investing_evidence": null,
+  "sector_statement": null,
+  "decision_maker": {
+    "name": "Dr. David Madukauwa-David",
+    "title": "Managing Partner",
+    "source_url": "https://dmdcapitalgroup.com/team/",
+    "selection_rule": "managing partner",
+    "in_contact_list": false,
+    "email": "needs lookup"
+  },
+  "contacts_in_our_list_at_firm": 0,
+  "gaps": [
+    "No thesis sentence found on pages read"
+  ],
+  "directory_listing": {
+    "source_url": "https://dmdcapitalgroup.com/",
+    "date_checked": "2026-10-26",
+    "ebitda_min_m": "2",
+    "ebitda_max_m": "8",
+    "revenue_min_m": NaN,
+    "revenue_max_m": NaN,
+    "geography": "Across the U.S.",
+    "sectors": "Healthcare",
+    "self_description": "DMD Capital Group is an Atlanta-based independent sponsor acquiring lower-middle-market healthcare and life sciences businesses across the U.S."
+  }
+}

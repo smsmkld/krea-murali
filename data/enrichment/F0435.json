@@ -1,0 +1,68 @@
+{
+  "firm_id": "F0435",
+  "firm": "Kidd & Company",
+  "category": "family_office",
+  "source_sheet": "leads-classified",
+  "enriched_on": "2026-11-19",
+  "recent_cutoff": "2025-05-19",
+  "site_status": "ok",
+  "pages_read": [
+    "https://kiddcompany.com/",
+    "https://kiddcompany.com/team",
+    "https://kiddcompany.com/investments",
+    "https://kiddcompany.com/news",
+    "https://kiddcompany.com/approach",
+    "https://kiddcompany.com/about",
+    "https://kiddcompany.com/blog/kidd-company-exits-logistyx-technologies",
+    "https://kiddcompany.com/blog/kidd-company-recapitalizes-pierce-washington"
+  ],
+  "stated_thesis": null,
+  "dated_facts": [
+    {
+      "headline": "OLD GREENWICH, CT,  – Kidd & Company, LLC, a leading family office investment firm focused on the middle market, announced it has exited Logistyx Technologies in a sale to E2open for $185 MM",
+      "date": "2022-03-31",
+      "source_url": "https://kiddcompany.com/",
+      "page_kind": "portfolio_or_home",
+      "is_recent": false,
+      "counts_as_firm_deal": true
+    },
+    {
+      "headline": "Kidd & Company Exits Logistyx Technologies for $185MM",
+      "date": "2020-07-02",
+      "source_url": "https://kiddcompany.com/news",
+      "page_kind": "firm_news",
+      "is_recent": false,
+      "counts_as_firm_deal": true
+    }
+  ],
+  "most_recent_dated_fact": {
+    "headline": "OLD GREENWICH, CT,  – Kidd & Company, LLC, a leading family office investment firm focused on the middle market, announced it has exited Logistyx Technologies in a sale to E2open for $185 MM",
+    "date": "2022-03-31",
+    "source_url": "https://kiddcompany.com/",
+    "page_kind": "portfolio_or_home",
+    "is_recent": false,
+    "counts_as_firm_deal": true
+  },
+  "stated_size_criteria": [],
+  "team_size_visible": {
+    "count": 5,
+    "basis": "5 people with titles found on https://kiddcompany.com/team",
+    "source_url": "https://kiddcompany.com/team",
+    "flags": [],
+    "titles_seen": [
+      "Founding Partner",
+      "Partner",
+      "Principal"
+    ]
+  },
+  "has_operating_partner": null,
+  "focus_west_or_california": null,
+  "direct_investing_evidence": null,
+  "sector_statement": null,
+  "decision_maker": null,
+  "contacts_in_our_list_at_firm": 2,
+  "gaps": [
+    "No thesis sentence found on pages read",
+    "No decision-maker with a matching title found on the site"
+  ]
+}

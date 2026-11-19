@@ -1,0 +1,57 @@
+{
+  "firm_id": "S12",
+  "firm": "True Path Capital",
+  "category": "independent_sponsor",
+  "source_sheet": "IS directory sheet",
+  "enriched_on": "2026-11-19",
+  "recent_cutoff": "2025-05-19",
+  "site_status": "ok",
+  "pages_read": [
+    "https://www.truepathcapital.com/"
+  ],
+  "stated_thesis": null,
+  "dated_facts": [],
+  "most_recent_dated_fact": null,
+  "stated_size_criteria": [
+    {
+      "kind": "ebitda",
+      "lo_m": 2.0,
+      "hi_m": 7.0,
+      "sentence": "EBITDA: $2–7M EBITDA; for software EBITDA $1M or clear path to sustainable profitability",
+      "source_url": "https://www.truepathcapital.com/"
+    },
+    {
+      "kind": "revenue",
+      "lo_m": 32.0,
+      "hi_m": 68.0,
+      "sentence": "We know transitions create uncertainty. Here's our track record: in our last company, we maintained top quintile employee engagement with best-in-class turnover (7.6% annually) while growing revenue from $32M to $68M. We keep good people, give them better tools, and create shared upside through equity participation.",
+      "source_url": "https://www.truepathcapital.com/"
+    }
+  ],
+  "team_size_visible": null,
+  "has_operating_partner": null,
+  "focus_west_or_california": null,
+  "direct_investing_evidence": null,
+  "sector_statement": {
+    "statement": "Our founder has doubled revenue twice ($28M→$57M and $32M→$68M) while improving margins, led successful exits to strategic acquirers, and managed distributed teams of 100+ across 12 countries—including navigating a business through COVID and the Ukraine war with 83% of technical staff in conflict zones.",
+    "source_url": "https://www.truepathcapital.com/"
+  },
+  "decision_maker": null,
+  "contacts_in_our_list_at_firm": 0,
+  "gaps": [
+    "No thesis sentence found on pages read",
+    "No team page with names and titles found",
+    "No decision-maker with a matching title found on the site"
+  ],
+  "directory_listing": {
+    "source_url": "https://www.truepathcapital.com/",
+    "date_checked": "2026-10-26",
+    "ebitda_min_m": "2",
+    "ebitda_max_m": "7",
+    "revenue_min_m": NaN,
+    "revenue_max_m": NaN,
+    "geography": "North America",
+    "sectors": "Education; Healthcare; Business services",
+    "self_description": "\"an operator-led independent sponsor\""
+  }
+}

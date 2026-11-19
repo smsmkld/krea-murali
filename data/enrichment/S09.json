@@ -1,0 +1,115 @@
+{
+  "firm_id": "S09",
+  "firm": "Preserve Equity Partners",
+  "category": "independent_sponsor",
+  "source_sheet": "IS directory sheet",
+  "enriched_on": "2026-11-19",
+  "recent_cutoff": "2025-05-19",
+  "site_status": "ok",
+  "pages_read": [
+    "https://preserveequitypartners.com/",
+    "https://preserveequitypartners.com/portfolio/",
+    "https://preserveequitypartners.com/approach/",
+    "https://preserveequitypartners.com/investment-focus/",
+    "https://preserveequitypartners.com/about-us/"
+  ],
+  "stated_thesis": null,
+  "dated_facts": [],
+  "most_recent_dated_fact": null,
+  "stated_size_criteria": [
+    {
+      "kind": "ebitda",
+      "lo_m": 1.0,
+      "hi_m": 5.0,
+      "sentence": "Independent sponsor acquiring consumer brands with $1M–$5M EBITDA",
+      "source_url": "https://preserveequitypartners.com/"
+    },
+    {
+      "kind": "ebitda",
+      "lo_m": 1.0,
+      "hi_m": 5.0,
+      "sentence": "$1M–$5M EBITDA",
+      "source_url": "https://preserveequitypartners.com/"
+    },
+    {
+      "kind": "ebitda",
+      "lo_m": 1.0,
+      "hi_m": 5.0,
+      "sentence": "Preserve Equity Partners is an independent sponsor that acquires founder- and family-owned consumer businesses in the lower middle market, typically with $1M–$5M of EBITDA. Our partners are operators who have built, scaled and sold consumer brands. When we acquire a company, we don’t arrive with a cost-cutting playbook. We learn what’s already driving the business, protect it, and put our time, capital and experience behind growing it.",
+      "source_url": "https://preserveequitypartners.com/portfolio/"
+    },
+    {
+      "kind": "ebitda",
+      "lo_m": 1.0,
+      "hi_m": 5.0,
+      "sentence": "At Preserve Equity Partners (PEP), we acquire entrepreneur- and family-owned consumer businesses in the lower middle market with $1M–$5M of EBITDA. We focus on consumer brands, consumer products and eCommerce/DTC companies, where our operating background can drive outsized growth through brand building, operational improvement, digital transformation and expanded distribution.",
+      "source_url": "https://preserveequitypartners.com/investment-focus/"
+    },
+    {
+      "kind": "ebitda",
+      "lo_m": 1.0,
+      "hi_m": 5.0,
+      "sentence": ": $1M–$5M EBITDA",
+      "source_url": "https://preserveequitypartners.com/investment-focus/"
+    },
+    {
+      "kind": "ebitda",
+      "lo_m": 1.0,
+      "hi_m": 5.0,
+      "sentence": "$1M–$5M EBITDA",
+      "source_url": "https://preserveequitypartners.com/investment-focus/"
+    },
+    {
+      "kind": "ebitda",
+      "lo_m": 1.0,
+      "hi_m": 5.0,
+      "sentence": "We acquire businesses with $1M–$5M of EBITDA, typically founder-, family- or entrepreneur-owned companies in the lower middle market.",
+      "source_url": "https://preserveequitypartners.com/investment-focus/"
+    },
+    {
+      "kind": "ebitda",
+      "lo_m": 1.0,
+      "hi_m": 5.0,
+      "sentence": "in 2023. They bring experience as founders, operators, and independent sponsors to every partnership. They focus on ETA and M&A transactions where control buyouts and $1M–$5M of EBITDA create a strong foundation for growth.",
+      "source_url": "https://preserveequitypartners.com/about-us/"
+    }
+  ],
+  "team_size_visible": {
+    "count": 4,
+    "basis": "4 people with titles found on https://preserveequitypartners.com/about-us/",
+    "source_url": "https://preserveequitypartners.com/about-us/",
+    "flags": [],
+    "titles_seen": [
+      "Get latest news and updates about Preserve Equity Partners",
+      "Partner"
+    ]
+  },
+  "has_operating_partner": null,
+  "focus_west_or_california": {
+    "value": false,
+    "evidence": "Preserve Equity Partners (PEP) acquires founder- and family-owned consumer businesses across the U.S., with a focus on the Midwest, and operates from the Los Angeles metro area, Traverse City, Michigan, and Cleveland, Ohio.",
+    "source_url": "https://preserveequitypartners.com/"
+  },
+  "direct_investing_evidence": null,
+  "sector_statement": {
+    "statement": "We focus on consumer brands, consumer products and eCommerce/DTC companies, where our operating background can drive outsized growth through brand building, operational improvement, digital transformation and expanded distribution.",
+    "source_url": "https://preserveequitypartners.com/investment-focus/"
+  },
+  "decision_maker": null,
+  "contacts_in_our_list_at_firm": 0,
+  "gaps": [
+    "No thesis sentence found on pages read",
+    "No decision-maker with a matching title found on the site"
+  ],
+  "directory_listing": {
+    "source_url": "https://preserveequitypartners.com/",
+    "date_checked": "2026-10-26",
+    "ebitda_min_m": "1",
+    "ebitda_max_m": NaN,
+    "revenue_min_m": NaN,
+    "revenue_max_m": "20",
+    "geography": "Midwest and West Coast",
+    "sectors": "Consumer",
+    "self_description": "We are independent sponsors, not a private equity fund"
+  }
+}
