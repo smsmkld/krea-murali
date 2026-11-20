@@ -1,5 +1,5 @@
 # Client brief: Murali Barathi / Krea Business Advisory Services
-Last updated: Nov 19, 2026
+Last updated: Nov 20, 2026
 
 ## Who he is
 Founder-owned-business advisor in California (kreabusiness.com,
@@ -140,3 +140,45 @@ Each message is written fresh around ONE sourced fact. Max 90 words.
 ## Operations
 CRM: GoHighLevel. Murali takes every call. Proposal within 48 hours of a
 call (if live deal). Past clients export is available for suppression.
+
+---
+
+# Progress log and new rules (added Nov 20, 2026)
+
+## New filter from Murali: "does the firm buy operating companies itself?"
+- The Pre-LOI Review only makes sense for a buyer that buys whole operating companies, because that is the only kind that receives and reads CIMs. Firms that only put money into funds, real estate or startups (his example: Ramex) are NOT a fit.
+- His three checks, in order: (1) portfolio page lists operating businesses (manufacturers, distributors, service firms); (2) LinkedIn shows "acquired", "control investment", "portfolio company" or a board seat; (3) news search "[firm] acquires". One past deal is enough.
+- Independent sponsors: the sponsor model itself implies buying, so a firm that calls itself an independent sponsor passes. Family offices need real evidence, because many family-office sites are one blank page.
+- His message grouped leads as A (evidence of buying: send), B (unproven: check) and a third group for funds/real estate/startups only. The message was cut off at "move to Group...". Assumption: that third group is "do not send". Confirm with Murali.
+
+## Definitions we now use
+- Lead statuses: A = confirmed buyer (proof link), B = needs manual check, C = probably funds/real estate/startups only or not a buyer.
+- Scoring tiers (CLIENT.md rubric, computed in code): A = 75+, B = 55 to 74, C = below 55 ("hold"). Most leads score C because public sites rarely show deal size, thesis or a recent deal. C does not mean "not a buyer".
+- proof_strength: "hard proof" = named deal, explicit "we acquire / control investment" sentence, or an independent sponsor describing itself that way. "check the page (heuristic)" = third-party profile or portfolio-page guess; verify before using in an email.
+- Team flag: associates/analysts or 10+ people shown on the team page (lean team is the best fit).
+- Recent = a dated deal within 18 months of today.
+- Past correspondents: about 1,100 rows in the Outreach contacts sheet came from Murali's Outlook inbox (including listing-site inquiries). They are warm, not cold. Murali decides who gets a personal note.
+
+## What was built (all under data/)
+- leads-clean.csv: 1,534 raw contacts cleaned to 1,100 contacts at 877 firms (434 personal-email rows with no firm dropped). See cleaning-report.md.
+- suppression-log.csv: 5 contacts removed (AMCA 2, K.R. Abraham 2, Harbour Group 1). K.R. Abraham and Harbour Group were suppressed as past clients on our judgment; the onboarding form names them as past buyers. No past-clients export was available.
+- Classification: leads-classified.csv (177 contacts, 121 firms), leads-pe-later.csv (125), needs-human-review.csv (640), classification-removed.csv (153: strategic 92, non-US 37, brokers 22, search funds 2). See classification-report.md.
+- enrichment/*.json (127 firms) + enrichment-errors.csv. Every fact has a source_url; unknowns are null; nothing inferred.
+- dream100-candidates.csv: 134 firms scored with the rubric.
+- dream100-tier1.csv: 12 firms with drafted emails that passed the QA checks (first draft had 6 fails, all fixed). Calendar link not in the emails yet.
+- dream100-monday-100.csv: FINAL Dream list, 114 leads (73 independent sponsors, 41 family offices), scored A/B/C, first and last names, proof links. 106 have names; 4 are "NOT PUBLIC".
+- dream100-needs-check.csv: 193 firms still unproven (check_priority column). Items already checked with no proof stay here.
+
+## Lessons so far
+- Apollo tags and source-list types are unreliable; a website check is required before trusting a type.
+- Only about a quarter of the family offices in the first 150 showed evidence of buying companies; independent sponsors passed far more often. Expect a low pass rate on any fresh pull.
+- Small sponsors rarely list deals on their own site. Press releases and third-party listings (PrivSource, Mergr, Axial profile text, news) were the best proof.
+- Do not scrape LinkedIn, Crunchbase, Axial, Apollo or Google News in bulk (their terms or robots.txt forbid it). Use official exports/APIs, paid databases, and public sources. Respect robots.txt on firm sites and skip login pages.
+- Never guess an email address. If we do not have it, write "needs lookup".
+
+## Current status and open items (as of Nov 20, 2026)
+- Next step: the agency owner finds and verifies emails (waterfall), then Claude writes personalizations and emails for the Dream list. Claude only writes files and never sends.
+- Calendar link is still [ADD SUNDAY].
+- No email verification file or past-clients export exists yet.
+- Murali still needs to confirm: the list, the K.R. Abraham / Harbour Group suppression, the cut-off group rule above, whether PE is approved (up to 10 PE in the Dream list only if approved), and what to do with past correspondents.
+- Goal set for this phase: 10 booked calls with Murali. Plan: send the Dream list first, then source 1,000 to 2,000 more independent sponsors and direct-buying family offices through the pipeline in the working notes (sources, dedupe against suppression, site check, evidence A/B/C, names, score).
