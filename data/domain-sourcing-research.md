@@ -40,4 +40,4 @@ Date: Nov 20, 2026. Goal: at least 3,000 raw domains of independent sponsors (IS
 Realistic stack to reach 3,000: Apollo (3,000+), SEC (836), search API (500+), Murali's lists, CT directory. Expect about 40% to 60% of raw domains to drop at the site check.
 
 ## 4. CT Acquisitions directory crawl
-(Results are added below once the crawl finishes.)
+Crawled 948 public profiles at one request per second (robots.txt allowed). Output: data/domain-lists/ct-directory.csv with firm, type (as the directory describes it), city, state, website domain where listed, and the profile URL. Search funds and venture firms were dropped. Rows without a domain need a name-to-domain match (Apollo can do this).
