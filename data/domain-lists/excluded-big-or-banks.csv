@@ -1,0 +1,31 @@
+source_list,name,domain,state,west,type,first_name,last_name,title,email,evidence,proof_url,pe_note,has_contact,grade,bigflag,verified
+clay-rest-checked,Citizen Investment Management,citizeninvest.com,Colorado,yes,"investor, type unclear",,,,needs lookup,medium: site says it buys/controls companies,https://citizeninvest.com/,,yes,A+,True,yes
+all-domains-master,Citi Venture Capital International,citi.com,California,yes,"investor, type unclear",,,,,no readable site,,,,B+,True,no
+all-domains-master,Morgan Health,morganhealth.com,New York,,"investor, type unclear",Dan,Mendelson,CEO of Morgan Health,,nothing found on site,,,yes,B,True,no
+all-domains-master,Apollo Funds,apollofunds.com,New York,,"investor, type unclear",,,,,nothing found on site,,,,B,True,no
+clay-rest-checked,CC Mutual,ccmutual.com,Nevada,yes,private_equity,Richard,Johnson,Managing Partner,needs lookup,nothing found on site,,,yes,B+,True,no
+all-domains-master,Coastal Carolina Bancshares,myccnb.com,South Carolina,,"investor, type unclear",Steve,Hales,Senior Vice President,,strong: named deal (Crunchbase),https://www.crunchbase.com/,,yes,B,True,yes
+all-domains-master,Skyward Specialty,skywardinsurance.com,Texas,,private_equity,John,Burkhart,"President, U.S. Property",,strong: named deal (Crunchbase),https://www.crunchbase.com/,,yes,B,True,yes
+all-domains-master,Dpe Deutsche Private Equity,dpe.de,,,private_equity,Marc,Thiery,Managing Partner und Gründer,,nothing found on site,,,yes,B,True,no
+all-domains-master,Focus Investment Banking,focusbankers.com,,,private_equity,Frank,Pezzanite,"CEO and Judy Pezzanite, COO, Co-Founders, LSSI",,nothing found on site,,,yes,B,True,no
+all-domains-master,Ieg Investment Banking Group,ieg-banking.com,,,private_equity,Stefan,Heilmann,Senior Managing Director,,weak: one mention,https://www.ieg-banking.com/about-us,,yes,B,True,no
+all-domains-master,"MUTUAL CAPITAL INVESTMENT ADVISORS, LLC",mutualcapitalinvestmentfund.com,PA,,private_equity,Alexis,Muench,President and Chief Executive Officer,,nothing found on site,,,yes,B,True,no
+apollo-cio-cleaned,PNC,pnc.com,Pennsylvania,,family_office,Monty,Bedi,"EVP and CIO ALM, Capital Markets, Finance and Risk",monty.bedi@pnc.com,nothing found on site,,,yes,B,True,no
+clay-rest-checked,Goldman Landow Capital / AgentLenderPLUS,goldmanlandowcapital.com,New York,,family_office,Stablecoin,Issuers,Registered Investment Advisors / SMAs,needs lookup,nothing found on site,,,yes,B,True,no
+clay-rest-checked,Assurance Incorporation Management Service Pvt. Ltd.,assuranceinc.com.np,Ohio,,private_equity,Kiran,Shrestha,Co-founder & Executive Director,needs lookup,nothing found on site,,,yes,B,True,no
+original-rest-checked,PNC Mezzanine Capital,www.pncmezzanine.com,,,independent_sponsor,Brian,Dandrea,,brian.dandrea@pncmezzanine.com,weak: one mention,https://www.pnc.com/mezzanine/?WT.mc_id=CIB_Offline_0004,,yes,B,True,no
+all-domains-master,Bankfirst Corporation,bankfirst.net,Tennessee,,"investor, type unclear",,,,,strong: named deal (Crunchbase),https://www.crunchbase.com/,,,B,True,yes
+all-domains-master,Citi,citigroup.com,New York,,"investor, type unclear",,,,,strong: named deal (Crunchbase),https://www.crunchbase.com/,,,B,True,yes
+all-domains-master,Equity BancShares,investor.equitybank.com,Kansas,,"investor, type unclear",,,,,strong: named deal (Crunchbase),https://www.crunchbase.com/,,,B,True,yes
+all-domains-master,HSBC SECURITIES (USA) INC.,us.hsbc.com,NY,,"investor, type unclear",,,,,nothing found on site,,,,B,True,no
+all-domains-master,J.P. Morgan Asset Management,am.jpmorgan.com,New York,,"investor, type unclear",,,,,no readable site,,,,B,True,no
+all-domains-master,Nuveen,nuveen.com,New York,,"investor, type unclear",,,,,nothing found on site,,,,B,True,no
+all-domains-master,Park Cities Asset Management,parkcitiesmgmt.com,Texas,,"investor, type unclear",,,,,nothing found on site,,,,B,True,no
+all-domains-master,"INVESCO PRIVATE CAPITAL, INC.",invesco.com,NY,,private_equity,,,,,nothing found on site,,,,B,True,no
+clay-ca-checked,Law Offices of Raymond Perez,bankruptcyattorneydowney.net,California,yes,"investor, type unclear",,,,needs lookup,nothing found on site,,,yes,C+,True,no
+apollo-cio-cleaned,Citi,citibank.com,New York,,"investor, type unclear",Reza,Ghaffari,CEO Citibank Tunisia,reza.ghaffari@citibank.com,no readable site,,,yes,C,True,no
+apollo-cio-cleaned,HSBC,hsbc.co.in,New York,,"investor, type unclear",Sonney,Singh,"Wholesale CIO US,",sonneysingh@hsbc.co.in,nothing found on site,,,yes,C,True,no
+clay-rest-checked,Fidelity Account Services LLC,fidelityas.com,Texas,,"investor, type unclear",,,,needs lookup,nothing found on site,,,yes,C,True,no
+clay-rest-checked,Citico Creek Capital Management LLC,citicocreekcapital.com,Tennessee,,"investor, type unclear",,,,needs lookup,no readable site,,,yes,C,True,no
+clay-rest-checked,Merrill Management Ltd,ml.com,Texas,,"investor, type unclear",,,,needs lookup,no readable site,,,yes,C,True,no
+clay-rest-checked,"Independent Wealth Management, LLC (A subsidiary of Independent Bank Memphis)",i-wmonline.com,Tennessee,,"investor, type unclear",,,,needs lookup,nothing found on site,,,yes,C,True,no
