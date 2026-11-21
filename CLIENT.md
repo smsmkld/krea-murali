@@ -1,5 +1,5 @@
 # Client brief: Murali Barathi / Krea Business Advisory Services
-Last updated: Nov 20, 2026
+Last updated: Nov 21, 2026
 
 ## Who he is
 Founder-owned-business advisor in California (kreabusiness.com,
@@ -182,3 +182,30 @@ call (if live deal). Past clients export is available for suppression.
 - No email verification file or past-clients export exists yet.
 - Murali still needs to confirm: the list, the K.R. Abraham / Harbour Group suppression, the cut-off group rule above, whether PE is approved (up to 10 PE in the Dream list only if approved), and what to do with past correspondents.
 - Goal set for this phase: 10 booked calls with Murali. Plan: send the Dream list first, then source 1,000 to 2,000 more independent sponsors and direct-buying family offices through the pipeline in the working notes (sources, dedupe against suppression, site check, evidence A/B/C, names, score).
+
+---
+
+# Domain sourcing update (added Nov 21, 2026)
+
+## Where the new-lead sourcing stands
+- Goal: source 1,000 to 2,000 more independent sponsors and direct-buying family offices (PE allowed only if Murali approves) and win at least 10 booked meetings, with at least one client.
+- Free or paid sources tested (details in data/domain-sourcing-research.md and data/lead-sourcing-filters.md): Axial, Altss, PremierAlts, Mergr, Praxisrock and the SBIA deals page are blocked, ban scraping, or are paywalled. Apollo returned under 100 companies with strict filters (keep filters broad and let the site check do the filtering). SEC adviser files and the CT Acquisitions directory worked. Crunchbase exports worked (acquisitions sheet, PE/IS sheets, family office sheet).
+- Domain lists are in data/domain-lists/: sec-pe-advisers.csv (836), sec-extra.csv (692), ct-directory.csv, crunchbase-ready-for-apollo.csv, crunchbase-combined.csv, crunchbase-pe-parked.csv, and the tier files below.
+
+## Tiers (4,577 unique domains site-checked)
+- Tier 1 "highest quality": 585 domains (highest-quality-585.csv). Lean team, not PE, confirmed buyer or likely buyer. 113 are confirmed buyers with proof; 212 are in the West.
+- Tier 2 "looser": 2,072 domains (tier2-looser.csv). Independent sponsors, family offices, PE and unclear investors of any team size. 357 confirmed buyers, 1,715 need a quick check, 493 in the West. 848 are PE (need Murali's approval).
+- Tier 3 "unverified": 712 domains (site down, blocked or login).
+- Excluded: 1,208 (large PE, funds/real estate/venture-style, brokers/advisors, banks, strategic buyers, name mismatches).
+- Workable now = Tier 1 + Tier 2 = 2,657 domains; 3,369 including Tier 3.
+
+## Lessons from this pass
+- Crunchbase acquisitions sheet is the most useful source: each buyer comes with a dated deal (proof of buying plus a live signal), but most are PE.
+- Only about 66 of the 2,657 are clearly independent sponsors. Independent sponsors rarely appear in these databases, so the volume is mostly PE and unclear investors.
+- Family offices in databases are mostly venture, real estate or foundations; only a minority buy operating companies.
+- Rules used in the site check: US only; exclude brokers/advisors/search funds, real estate, venture-style, banks/insurers, strategic buyers, mega PE (billions in assets or 40+ people); flag larger teams; PE flagged "confirm with Murali".
+
+## Next steps
+- Run the Apollo People search on Tier 1, then the confirmed-buyer rows of Tier 2, to get decision-maker names and verified emails (titles in data/lead-sourcing-filters.md section 5).
+- Free lists offered by the agency owner (Capital Management Companies - CIO, 2.6K; Investment Management US - Clay, 36.4K): match against the domain tiers after filtering to US, 1 to 50 employees. Skip the venture and angel lists.
+- Murali to confirm whether PE is approved, plus the open items in the section above.
