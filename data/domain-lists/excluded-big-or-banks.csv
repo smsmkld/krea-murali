@@ -1,31 +1,75 @@
-source_list,name,domain,state,west,type,first_name,last_name,title,email,evidence,proof_url,pe_note,has_contact,grade,bigflag,verified
-clay-rest-checked,Citizen Investment Management,citizeninvest.com,Colorado,yes,"investor, type unclear",,,,needs lookup,medium: site says it buys/controls companies,https://citizeninvest.com/,,yes,A+,True,yes
-all-domains-master,Citi Venture Capital International,citi.com,California,yes,"investor, type unclear",,,,,no readable site,,,,B+,True,no
-all-domains-master,Morgan Health,morganhealth.com,New York,,"investor, type unclear",Dan,Mendelson,CEO of Morgan Health,,nothing found on site,,,yes,B,True,no
-all-domains-master,Apollo Funds,apollofunds.com,New York,,"investor, type unclear",,,,,nothing found on site,,,,B,True,no
-clay-rest-checked,CC Mutual,ccmutual.com,Nevada,yes,private_equity,Richard,Johnson,Managing Partner,needs lookup,nothing found on site,,,yes,B+,True,no
-all-domains-master,Coastal Carolina Bancshares,myccnb.com,South Carolina,,"investor, type unclear",Steve,Hales,Senior Vice President,,strong: named deal (Crunchbase),https://www.crunchbase.com/,,yes,B,True,yes
-all-domains-master,Skyward Specialty,skywardinsurance.com,Texas,,private_equity,John,Burkhart,"President, U.S. Property",,strong: named deal (Crunchbase),https://www.crunchbase.com/,,yes,B,True,yes
-all-domains-master,Dpe Deutsche Private Equity,dpe.de,,,private_equity,Marc,Thiery,Managing Partner und Gründer,,nothing found on site,,,yes,B,True,no
-all-domains-master,Focus Investment Banking,focusbankers.com,,,private_equity,Frank,Pezzanite,"CEO and Judy Pezzanite, COO, Co-Founders, LSSI",,nothing found on site,,,yes,B,True,no
-all-domains-master,Ieg Investment Banking Group,ieg-banking.com,,,private_equity,Stefan,Heilmann,Senior Managing Director,,weak: one mention,https://www.ieg-banking.com/about-us,,yes,B,True,no
-all-domains-master,"MUTUAL CAPITAL INVESTMENT ADVISORS, LLC",mutualcapitalinvestmentfund.com,PA,,private_equity,Alexis,Muench,President and Chief Executive Officer,,nothing found on site,,,yes,B,True,no
-apollo-cio-cleaned,PNC,pnc.com,Pennsylvania,,family_office,Monty,Bedi,"EVP and CIO ALM, Capital Markets, Finance and Risk",monty.bedi@pnc.com,nothing found on site,,,yes,B,True,no
-clay-rest-checked,Goldman Landow Capital / AgentLenderPLUS,goldmanlandowcapital.com,New York,,family_office,Stablecoin,Issuers,Registered Investment Advisors / SMAs,needs lookup,nothing found on site,,,yes,B,True,no
-clay-rest-checked,Assurance Incorporation Management Service Pvt. Ltd.,assuranceinc.com.np,Ohio,,private_equity,Kiran,Shrestha,Co-founder & Executive Director,needs lookup,nothing found on site,,,yes,B,True,no
-original-rest-checked,PNC Mezzanine Capital,www.pncmezzanine.com,,,independent_sponsor,Brian,Dandrea,,brian.dandrea@pncmezzanine.com,weak: one mention,https://www.pnc.com/mezzanine/?WT.mc_id=CIB_Offline_0004,,yes,B,True,no
-all-domains-master,Bankfirst Corporation,bankfirst.net,Tennessee,,"investor, type unclear",,,,,strong: named deal (Crunchbase),https://www.crunchbase.com/,,,B,True,yes
-all-domains-master,Citi,citigroup.com,New York,,"investor, type unclear",,,,,strong: named deal (Crunchbase),https://www.crunchbase.com/,,,B,True,yes
-all-domains-master,Equity BancShares,investor.equitybank.com,Kansas,,"investor, type unclear",,,,,strong: named deal (Crunchbase),https://www.crunchbase.com/,,,B,True,yes
-all-domains-master,HSBC SECURITIES (USA) INC.,us.hsbc.com,NY,,"investor, type unclear",,,,,nothing found on site,,,,B,True,no
-all-domains-master,J.P. Morgan Asset Management,am.jpmorgan.com,New York,,"investor, type unclear",,,,,no readable site,,,,B,True,no
-all-domains-master,Nuveen,nuveen.com,New York,,"investor, type unclear",,,,,nothing found on site,,,,B,True,no
-all-domains-master,Park Cities Asset Management,parkcitiesmgmt.com,Texas,,"investor, type unclear",,,,,nothing found on site,,,,B,True,no
-all-domains-master,"INVESCO PRIVATE CAPITAL, INC.",invesco.com,NY,,private_equity,,,,,nothing found on site,,,,B,True,no
-clay-ca-checked,Law Offices of Raymond Perez,bankruptcyattorneydowney.net,California,yes,"investor, type unclear",,,,needs lookup,nothing found on site,,,yes,C+,True,no
-apollo-cio-cleaned,Citi,citibank.com,New York,,"investor, type unclear",Reza,Ghaffari,CEO Citibank Tunisia,reza.ghaffari@citibank.com,no readable site,,,yes,C,True,no
-apollo-cio-cleaned,HSBC,hsbc.co.in,New York,,"investor, type unclear",Sonney,Singh,"Wholesale CIO US,",sonneysingh@hsbc.co.in,nothing found on site,,,yes,C,True,no
-clay-rest-checked,Fidelity Account Services LLC,fidelityas.com,Texas,,"investor, type unclear",,,,needs lookup,nothing found on site,,,yes,C,True,no
-clay-rest-checked,Citico Creek Capital Management LLC,citicocreekcapital.com,Tennessee,,"investor, type unclear",,,,needs lookup,no readable site,,,yes,C,True,no
-clay-rest-checked,Merrill Management Ltd,ml.com,Texas,,"investor, type unclear",,,,needs lookup,no readable site,,,yes,C,True,no
-clay-rest-checked,"Independent Wealth Management, LLC (A subsidiary of Independent Bank Memphis)",i-wmonline.com,Tennessee,,"investor, type unclear",,,,needs lookup,nothing found on site,,,yes,C,True,no
+source_list,name,domain,state,west,type,first_name,last_name,title,email,evidence,proof_url,pe_note,has_contact,grade,bigflag,verified,exclude_why
+clay-rest-checked,Citizen Investment Management,citizeninvest.com,Colorado,yes,"investor, type unclear",,,,needs lookup,medium: site says it buys/controls companies,https://citizeninvest.com/,,yes,A+,True,yes,
+all-domains-master,Citi Venture Capital International,citi.com,California,yes,"investor, type unclear",,,,,no readable site,,,,B+,True,no,
+all-domains-master,Morgan Health,morganhealth.com,New York,,"investor, type unclear",Dan,Mendelson,CEO of Morgan Health,,nothing found on site,,,yes,B,True,no,
+all-domains-master,Apollo Funds,apollofunds.com,New York,,"investor, type unclear",,,,,nothing found on site,,,,B,True,no,
+clay-rest-checked,CC Mutual,ccmutual.com,Nevada,yes,private_equity,Richard,Johnson,Managing Partner,needs lookup,nothing found on site,,,yes,B+,True,no,
+all-domains-master,Coastal Carolina Bancshares,myccnb.com,South Carolina,,"investor, type unclear",Steve,Hales,Senior Vice President,,strong: named deal (Crunchbase),https://www.crunchbase.com/,,yes,B,True,yes,
+all-domains-master,Skyward Specialty,skywardinsurance.com,Texas,,private_equity,John,Burkhart,"President, U.S. Property",,strong: named deal (Crunchbase),https://www.crunchbase.com/,,yes,B,True,yes,
+all-domains-master,Dpe Deutsche Private Equity,dpe.de,,,private_equity,Marc,Thiery,Managing Partner und Gründer,,nothing found on site,,,yes,B,True,no,
+all-domains-master,Focus Investment Banking,focusbankers.com,,,private_equity,Frank,Pezzanite,"CEO and Judy Pezzanite, COO, Co-Founders, LSSI",,nothing found on site,,,yes,B,True,no,
+all-domains-master,Ieg Investment Banking Group,ieg-banking.com,,,private_equity,Stefan,Heilmann,Senior Managing Director,,weak: one mention,https://www.ieg-banking.com/about-us,,yes,B,True,no,
+all-domains-master,"MUTUAL CAPITAL INVESTMENT ADVISORS, LLC",mutualcapitalinvestmentfund.com,PA,,private_equity,Alexis,Muench,President and Chief Executive Officer,,nothing found on site,,,yes,B,True,no,
+apollo-cio-cleaned,PNC,pnc.com,Pennsylvania,,family_office,Monty,Bedi,"EVP and CIO ALM, Capital Markets, Finance and Risk",monty.bedi@pnc.com,nothing found on site,,,yes,B,True,no,
+clay-rest-checked,Goldman Landow Capital / AgentLenderPLUS,goldmanlandowcapital.com,New York,,family_office,Stablecoin,Issuers,Registered Investment Advisors / SMAs,needs lookup,nothing found on site,,,yes,B,True,no,
+clay-rest-checked,Assurance Incorporation Management Service Pvt. Ltd.,assuranceinc.com.np,Ohio,,private_equity,Kiran,Shrestha,Co-founder & Executive Director,needs lookup,nothing found on site,,,yes,B,True,no,
+original-rest-checked,PNC Mezzanine Capital,www.pncmezzanine.com,,,independent_sponsor,Brian,Dandrea,,brian.dandrea@pncmezzanine.com,weak: one mention,https://www.pnc.com/mezzanine/?WT.mc_id=CIB_Offline_0004,,yes,B,True,no,
+all-domains-master,Bankfirst Corporation,bankfirst.net,Tennessee,,"investor, type unclear",,,,,strong: named deal (Crunchbase),https://www.crunchbase.com/,,,B,True,yes,
+all-domains-master,Citi,citigroup.com,New York,,"investor, type unclear",,,,,strong: named deal (Crunchbase),https://www.crunchbase.com/,,,B,True,yes,
+all-domains-master,Equity BancShares,investor.equitybank.com,Kansas,,"investor, type unclear",,,,,strong: named deal (Crunchbase),https://www.crunchbase.com/,,,B,True,yes,
+all-domains-master,HSBC SECURITIES (USA) INC.,us.hsbc.com,NY,,"investor, type unclear",,,,,nothing found on site,,,,B,True,no,
+all-domains-master,J.P. Morgan Asset Management,am.jpmorgan.com,New York,,"investor, type unclear",,,,,no readable site,,,,B,True,no,
+all-domains-master,Nuveen,nuveen.com,New York,,"investor, type unclear",,,,,nothing found on site,,,,B,True,no,
+all-domains-master,Park Cities Asset Management,parkcitiesmgmt.com,Texas,,"investor, type unclear",,,,,nothing found on site,,,,B,True,no,
+all-domains-master,"INVESCO PRIVATE CAPITAL, INC.",invesco.com,NY,,private_equity,,,,,nothing found on site,,,,B,True,no,
+clay-ca-checked,Law Offices of Raymond Perez,bankruptcyattorneydowney.net,California,yes,"investor, type unclear",,,,needs lookup,nothing found on site,,,yes,C+,True,no,
+apollo-cio-cleaned,Citi,citibank.com,New York,,"investor, type unclear",Reza,Ghaffari,CEO Citibank Tunisia,reza.ghaffari@citibank.com,no readable site,,,yes,C,True,no,
+apollo-cio-cleaned,HSBC,hsbc.co.in,New York,,"investor, type unclear",Sonney,Singh,"Wholesale CIO US,",sonneysingh@hsbc.co.in,nothing found on site,,,yes,C,True,no,
+clay-rest-checked,Fidelity Account Services LLC,fidelityas.com,Texas,,"investor, type unclear",,,,needs lookup,nothing found on site,,,yes,C,True,no,
+clay-rest-checked,Citico Creek Capital Management LLC,citicocreekcapital.com,Tennessee,,"investor, type unclear",,,,needs lookup,no readable site,,,yes,C,True,no,
+clay-rest-checked,Merrill Management Ltd,ml.com,Texas,,"investor, type unclear",,,,needs lookup,no readable site,,,yes,C,True,no,
+clay-rest-checked,"Independent Wealth Management, LLC (A subsidiary of Independent Bank Memphis)",i-wmonline.com,Tennessee,,"investor, type unclear",,,,needs lookup,nothing found on site,,,yes,C,True,no,
+all-domains-master,Benz Capital,benzcap.com,Utah,yes,family_office,Bradford,Benz,Founder,,weak: one mention,https://www.benzcap.com/,,yes,B+,,no,large / real estate / venture / infrastructure (re-check)
+all-domains-master,Dovetail Investment Group,dovetailig.com,Arizona,yes,family_office,Investor,Login,for Discerning Investors,,nothing found on site,,,yes,B+,,no,large / real estate / venture / infrastructure (re-check)
+all-domains-master,Integrated Capital Management,integratedcm.com,California,yes,family_office,John,Carrick,CO-FOUNDER AND MANAGING PRINCIPAL,,nothing found on site,,,yes,B+,,no,large / real estate / venture / infrastructure (re-check)
+all-domains-master,The K Fund,thekfund.com,California,yes,family_office,Andrew,Dirks,PRINCIPAL,,nothing found on site,,,yes,B+,,no,large / real estate / venture / infrastructure (re-check)
+all-domains-master,Diversis Capital,diversis.com,California,yes,independent_sponsor,Ali,Moosani,CEO BLUE Software,,nothing found on site,,,yes,B+,,no,large / real estate / venture / infrastructure (re-check)
+all-domains-master,Horowitz Group,horowitzgroup.com,California,yes,independent_sponsor,David,Horowitz,Chairman,,nothing found on site,,,yes,B+,,no,large / real estate / venture / infrastructure (re-check)
+all-domains-master,Tregaron Capital,tregaroncapital.com,California,yes,independent_sponsor,JR,Matthews,Managing Director,,weak: one mention,https://tregaroncapital.com/team.html,,yes,B+,,no,large / real estate / venture / infrastructure (re-check)
+all-domains-master,Wolf Capital Ventures,wolfcapitalventures.com,California,yes,"investor, type unclear",Business,Profitability,Strategy & Operations,,nothing found on site,,,yes,B+,,no,large / real estate / venture / infrastructure (re-check)
+all-domains-master,HighCrest Management Group,highcrestgroup.com,California,yes,family_office,,,,,nothing found on site,,,,B+,,no,large / real estate / venture / infrastructure (re-check)
+all-domains-master,Three Fields Capital,threefieldscapital.com,California,yes,family_office,,,,,nothing found on site,,,,B+,,no,large / real estate / venture / infrastructure (re-check)
+all-domains-master,Blue Horizon Equity,bluehorizonequity.com,California,yes,"investor, type unclear",,,,,no readable site,,,,B+,,no,large / real estate / venture / infrastructure (re-check)
+all-domains-master,Monarch Capital,monarchcapcorp.com,California,yes,"investor, type unclear",,,,,no readable site,,,,B+,,no,large / real estate / venture / infrastructure (re-check)
+all-domains-master,Services Group of America,sgagroup.com,Arizona,yes,"investor, type unclear",,,,,nothing found on site,,,,B+,,no,large / real estate / venture / infrastructure (re-check)
+all-domains-master,Symphony Technology Group,stg.com,California,yes,"investor, type unclear",,,,,nothing found on site,,,,B+,,no,large / real estate / venture / infrastructure (re-check)
+all-domains-master,Amherst Holdings,amherst.com,Texas,,family_office,Sean,Dobson,"Chairman, CEO, & CIO",,nothing found on site,,,yes,B,,no,large / real estate / venture / infrastructure (re-check)
+all-domains-master,Apex Capital Holdings,apexcap.com,New York,,family_office,Applied,Logic,"Partners, LP, launched in",,nothing found on site,,,yes,B,,no,large / real estate / venture / infrastructure (re-check)
+all-domains-master,Arlington Family Offices,arlingtonfamilyoffices.com,New York,,family_office,Neamul,Mohsin,CIO of Oxford University Endowment,,nothing found on site,,,yes,B,,no,large / real estate / venture / infrastructure (re-check)
+all-domains-master,Clara Vista Investment Partners,claravistapartners.com,New York,,family_office,Frosinone,Calcio,Directors' box,,nothing found on site,,,yes,B,,no,large / real estate / venture / infrastructure (re-check)
+all-domains-master,GoldPoint Partners,goldpointpartners.com,New York,,family_office,Middle,Market,Partner Important Message,,nothing found on site,,,yes,B,,no,large / real estate / venture / infrastructure (re-check)
+all-domains-master,Lakeside Capital,lakesidecapital.com,Texas,,family_office,Melvin,Andrews,", President",,nothing found on site,,,yes,B,,no,large / real estate / venture / infrastructure (re-check)
+all-domains-master,Lunedi Capital LLC,lunedi.investments,New York,,family_office,Stanislav,Pavlov,Founder of Lunedi Capital,,nothing found on site,,,yes,B,,no,large / real estate / venture / infrastructure (re-check)
+all-domains-master,Natureza,natureza.co,New York,,family_office,Natureza,Growth,Partners,,nothing found on site,,,yes,B,,no,large / real estate / venture / infrastructure (re-check)
+all-domains-master,Nicklaus Brown,nicklausbrown.com,South Carolina,,family_office,Rory,Brown,Managing Partner,,weak: one mention,https://nicklausbrown.com/team/rory-brown/,,yes,B,,no,large / real estate / venture / infrastructure (re-check)
+all-domains-master,Outcomes Collective,outcomescollective.com,Texas,,family_office,Adam,Porsch,Venture Director - Education,,nothing found on site,,,yes,B,,no,large / real estate / venture / infrastructure (re-check)
+all-domains-master,Red Barn Equity Partners,redbarnep.com,New York,,family_office,Christopher,Kempner,Partner,,weak: one mention,https://redbarnep.com/,,yes,B,,no,large / real estate / venture / infrastructure (re-check)
+all-domains-master,Richmont Capital Partners,richmont.net,Texas,,family_office,Harvey's,Casinos,Partner with us,,nothing found on site,,,yes,B,,no,large / real estate / venture / infrastructure (re-check)
+all-domains-master,RoseRock,roserock.co,Texas,,family_office,Private,Lending,"Financing by investors, for investors",,nothing found on site,,,yes,B,,no,large / real estate / venture / infrastructure (re-check)
+all-domains-master,SJ Investment Company,sjinvestments.net,Ohio,,family_office,Gregory,Sorrell,Chief Investment Officer Susan Gregory manages the company,,nothing found on site,,,yes,B,,no,large / real estate / venture / infrastructure (re-check)
+all-domains-master,Strait Lane Capital Partners,straitlanecapital.com,Texas,,family_office,Brandon,Kesler,Advisors,,nothing found on site,,,yes,B,,no,large / real estate / venture / infrastructure (re-check)
+all-domains-master,Rock The Post,rockthepost.com,New York,,"investor, type unclear",Innovation,First,Find Your Co-Founder,,nothing found on site,,,yes,B,,no,large / real estate / venture / infrastructure (re-check)
+all-domains-master,Varde Partners,varde.com,New York,,"investor, type unclear",Asia,Credit,Business Development & Investor Relations,,nothing found on site,,,yes,B,,no,large / real estate / venture / infrastructure (re-check)
+all-domains-master,AJB Capital,ajbcap.com,North Carolina,,family_office,,,,,no readable site,,,,B,,no,large / real estate / venture / infrastructure (re-check)
+all-domains-master,CH Investment Partners,chinvestments.com,Texas,,family_office,,,,,nothing found on site,,,,B,,no,large / real estate / venture / infrastructure (re-check)
+all-domains-master,Covenant Venture Capital,covenantvc.com,New York,,family_office,,,,,nothing found on site,,,,B,,no,large / real estate / venture / infrastructure (re-check)
+all-domains-master,MEP Capital,mepcap.com,New York,,family_office,,,,,nothing found on site,,,,B,,no,large / real estate / venture / infrastructure (re-check)
+all-domains-master,W5 Group,w5-group.com,Florida,,family_office,,,,,nothing found on site,,,,B,,no,large / real estate / venture / infrastructure (re-check)
+all-domains-master,Prodos Capital Management,prodoscapital.com,New York,,independent_sponsor,,,,,nothing found on site,,,,B,,no,large / real estate / venture / infrastructure (re-check)
+all-domains-master,VIKASA Capital,vikasacapital.com,Connecticut,,independent_sponsor,,,,,nothing found on site,,,,B,,no,large / real estate / venture / infrastructure (re-check)
+all-domains-master,Australis Partners,australispartners.com,New York,,"investor, type unclear",,,,,no readable site,,,,B,,no,large / real estate / venture / infrastructure (re-check)
+all-domains-master,Corsair Infrastructure Partners,corsair-infrastructure.com,New York,,"investor, type unclear",,,,,no readable site,,,,B,,no,large / real estate / venture / infrastructure (re-check)
+all-domains-master,GF Capital Management & Advisors,gfcap.com,New York,,"investor, type unclear",,,,,no readable site,,,,B,,no,large / real estate / venture / infrastructure (re-check)
+all-domains-master,Long Arc Capital,longarc.com,New York,,"investor, type unclear",,,,,no readable site,,,,B,,no,large / real estate / venture / infrastructure (re-check)
+all-domains-master,Prairie Management Group,prairiemgmt.com,Wisconsin,,"investor, type unclear",,,,,nothing found on site,,,,B,,no,large / real estate / venture / infrastructure (re-check)
+all-domains-master,Synergy Capital,synergycapital1.com,North Carolina,,"investor, type unclear",,,,,nothing found on site,,,,B,,no,large / real estate / venture / infrastructure (re-check)
