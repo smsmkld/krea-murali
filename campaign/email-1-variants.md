@@ -18,7 +18,7 @@ One email, one offer. Only two things change per lead: the **variable** (6 varia
 | 1 Recent deal | `after {deal}` | {Name} - saw {deal} closed in {deal_month}. A pattern buyers know: the founder steps back, and pricing, key accounts and supplier terms turn out to have lived in one person’s head. |
 | 2 Portfolio company | `{portfolio_company}` | {Name} - saw {portfolio_company} in your portfolio. A pattern buyers know: the founder steps back, and pricing, key accounts and supplier terms turn out to have lived in one person’s head. |
 | 3 Live signal | `{live_short}` | {Name} - saw you’re {live_signal}. A pattern buyers know: the founder steps back, and pricing, key accounts and supplier terms turn out to have lived in one person’s head. |
-| 4 Buy box | `{buy_box} deals` | {Name} - in founder-owned companies in your {buy_box} range, a pattern shows up: the founder steps back, and pricing, key accounts and supplier terms turn out to have lived in one person’s head. |
+| 4 Buy box | `{buy_box} deals` | {Name} - in founder-owned companies at {buy_box}, a pattern shows up: the founder steps back, and pricing, key accounts and supplier terms turn out to have lived in one person’s head. |
 | 5 Founder background | `founder dependence` | {Name} - I saw you came up through {background_firm}. Even experienced buyers see this: the founder steps back, and pricing, key accounts and supplier terms turn out to have lived in one person’s head. |
 | 6 Sector | `{sector} deals` | {Name} - a pattern buyers in {sector} deals know: the founder steps back, and pricing, key accounts and supplier terms turn out to have lived in one person’s head. |
 
@@ -83,11 +83,11 @@ Subject: *seafood acquisitions*
 >
 > Murali
 
-**4 Buy box** · Family office · Timberline Management Company (their own site) · about 91 words
+**4 Buy box** · Family office · Timberline Management Company (their own site) · about 89 words
 
 Subject: *$3–8M EBITDA deals*
 
-> Joe - in founder-owned companies in your $3–8M EBITDA range, a pattern shows up: the founder steps back, and pricing, key accounts and supplier terms turn out to have lived in one person’s head.
+> Joe - in founder-owned companies at $3–8M EBITDA, a pattern shows up: the founder steps back, and pricing, key accounts and supplier terms turn out to have lived in one person’s head.
 >
 > Founder dependence rarely shows up in the CIM. I’ve written more than 24 CIMs and worked both sides of the table, so I know where it hides. I flag it, with other operating risks, in 5 business days, before the LOI or you commit family capital.
 >
