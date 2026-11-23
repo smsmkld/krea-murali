@@ -55,3 +55,7 @@ Subject: {{random|quick question|quick question about {{topic}}|question about {
 {{random|Should we chat to see if there is a fit?|Should we chat to see if it’s a fit?|Worth a short chat to see if there is a fit?}}
 
 {{sender-name}}
+
+## Email 5
+
+{{random|Guess it’s not really a fit, {{firstName}}?|Guess this isn’t a priority, {{firstName}}?|Not really your thing, {{firstName}}?}}
