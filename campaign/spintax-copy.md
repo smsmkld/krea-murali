@@ -17,3 +17,13 @@ Subject: {{random|quick question|quick question about {{topic}}|question about {
 {{sender-name}}
 
 {{random|P.S. If the acquisition is worth pursuing, I can support you through diligence to close.|P.S. And if it moves forward, I can support you through diligence to close.|P.S. If the acquisition looks worth pursuing, I can also support you through diligence to close.}}
+
+## Email 2
+
+{{random|{{Name}} - also saw you {{Approach}}|{{Name}} - I also noticed you {{Approach}}|{{Name}} - and I saw you {{Approach}}}}
+
+{{random|A CIM is written to present the company well, so details like founder dependence slip through. I flag those risks within 5 business days, before you sign the LOI.|A CIM is built to show the company at its best, so details like founder dependence are easy to miss. I flag those risks within 5 business days, before you sign the LOI.|Since a CIM is written to present the company well, things like founder dependence can slip by. I flag those risks within 5 business days, ahead of your LOI.}}
+
+{{random|Worth a quick chat, {{name}}?|Up for a quick chat, {{name}}?|Would a short chat make sense, {{name}}?}}
+
+{{sender-name}}
