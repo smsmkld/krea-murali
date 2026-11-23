@@ -27,3 +27,13 @@ Subject: {{random|quick question|quick question about {{topic}}|question about {
 {{random|Worth a quick chat, {{name}}?|Up for a quick chat, {{name}}?|Would a short chat make sense, {{name}}?}}
 
 {{sender-name}}
+
+## Email 3
+
+{{random|{{Name}} - founder dependence is one of 9 places to look in a CIM. I put together a short guide covering the 9, including {{Guide_Area}}. I think it would be relevant for {{firm_name}}.|{{Name}} - founder dependence is just one of 9 places worth looking at in a CIM. I wrote a short guide on those 9, including {{Guide_Area}}, and I think it fits {{firm_name}}.|{{Name}} - there are 9 places I look at in any CIM, and founder dependence is one of them. My short guide covers them, including {{Guide_Area}}, and I think it’s relevant for {{firm_name}}.}}
+
+{{random|Can I walk you through them and how it would fit in your next CIM?|Want me to walk you through them and how they would fit in your next CIM?|Could I walk you through them and how they apply to your next CIM?}}
+
+{{sender-name}}
+
+{{random|P.S. Worst-case scenario: you pick up some guidance and ghost me hahaha|P.S. Worst case, you pick up a few pointers and ghost me hahaha|P.S. Worst-case scenario: you learn something useful and ghost me hahaha}}
