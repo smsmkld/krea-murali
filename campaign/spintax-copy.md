@@ -59,3 +59,18 @@ Subject: {{random|quick question|quick question about {{topic}}|question about {
 ## Email 5
 
 {{random|Guess it’s not really a fit, {{firstName}}?|Guess this isn’t a priority, {{firstName}}?|Not really your thing, {{firstName}}?}}
+
+## Email 6
+
+{{random|alright, I’ll close the loop, {{Name}}|alright, this is my last note, {{Name}}|alright, no more messages from me after this, {{Name}}}}
+
+{{random|If you’re simply not looking for outside support before signing an LOI or starting diligence, that’s okay.|If outside support before an LOI, or before diligence begins, isn’t on your radar, that’s okay.|If you’d rather handle the LOI and diligence on your own, that’s completely fine.}}
+
+{{random|I help {{firm_model}} like {{firm_name}} flag operational risks and gaps in the numbers before signing an LOI, within 5 business days.|I work with {{firm_model}} like {{firm_name}}, flagging operational risks and gaps in the numbers within 5 business days, before the LOI.|I help {{firm_model}} like {{firm_name}} spot operational risks and gaps in the numbers within 5 business days, before an LOI is signed.}}
+
+{{random|And if the acquisition is worth pursuing, I can support you through diligence to close.|And if it’s worth pursuing, I can support you through diligence to close.|If the acquisition moves forward, I can also support you through diligence to close.}}
+
+{{random|So reach me any time if that ever becomes relevant.|So reach out any time if that ever becomes relevant.|If that ever becomes relevant, you’re welcome to reach me any time.}}
+
+{{random|Warm regards,|Take care,|Regards,}}
+{{sender-name}}
